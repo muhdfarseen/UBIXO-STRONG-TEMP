@@ -60,7 +60,7 @@ export default async function StrongPortfolioSinglePage(props) {
                 <div className="container relative">
                   <div className="row mb-sm-20">
                     <h2 className="h3 font-alt mb-20">
-                      TThe Ajman Advantage: Launch your business in Ajman Mainland with expert support for fast, cost-efficient, and compliant company formation.
+                      The Ajman Advantage: Launch your business in Ajman Mainland with expert support for fast, cost-efficient, and compliant company formation.
                     </h2>
                     <p className="mb-0">
                     At UBIXO, our Ajman mainland business setup team brings together deep regulatory insight and practical execution strategies. We understand the procedures set by the Ajman Department of Economic Development (Ajman DED), and we guide you through each step—from choosing the legal structure to securing your business license and visas. With tailored solutions, we ensure a smooth setup process in one of the UAE’s most cost-effective jurisdictions.
