@@ -44,7 +44,7 @@ export default async function StrongPortfolioSinglePage(props) {
                         text={"Freezone"}
                       /> 
                       <span className="font-alt">
-                        <AnimatedText text={"Title here"} />
+                        <AnimatedText text={"UAE"} />
                       </span>
                     </span>
                   </h1>
@@ -57,20 +57,10 @@ export default async function StrongPortfolioSinglePage(props) {
                 <div className="container relative">
                   <div className="row mb-sm-20">
                     <h2 className="h3 font-alt mb-20">
-                      FREEZONE FREEZONE
+                    Build your business in UAE Free Zones with expert-led setup, quick approvals, and 100% foreign ownership.
                     </h2>
                     <p className="mb-0">
-                      Our business setup team is made up of professionals who
-                      are passionate about helping entrepreneurs build
-                      successful companies in Dubai mainland. We understand the
-                      UAE’s legal framework, local culture, and business
-                      regulations. Our approach is detailed, strategic, and
-                      fully aligned with your business goals.
-                      <br />
-                      We work closely with our clients to register mainland
-                      companies, secure licenses, handle visas, and navigate
-                      documentation—ensuring their journey is not only compliant
-                      but also smooth, fast, and cost-effective.
+                      At UBIXO, we simplify UAE free zone company formation by providing hands-on guidance and regulatory expertise across all major free zones, including DMCC, IFZA, RAKEZ, SHAMS, and more. From choosing the right free zone and business activity to securing your trade license and visas, we offer tailored support that accelerates your launch while ensuring compliance and cost-efficiency.
                     </p>
                   </div>
                 </div>
@@ -78,93 +68,70 @@ export default async function StrongPortfolioSinglePage(props) {
 
               <section className="page-section pt-20 pb-20">
                 <div className="container relative ">
-                  <div className="row ">
-                    <div className="col-md-6 ">
-                      <h2 className="h3 font-alt">Company Formation</h2>
-                      <p>
-                        We help you register your mainland company in the UAE
-                        with expert guidance on legal structure, approvals, and
-                        DED registration—ensuring fast, compliant, and
-                        cost-effective business setup.
-                      </p>
+                    <div className="row ">
+                        <div className="col-md-6 ">
+                            <h2 className="h3 font-alt">Company Formation</h2>
+                            <p>
+                                Launch your free zone company with our start-to-finish support—covering jurisdiction selection, legal form, licensing, and document submissions for a seamless business setup.
+                            </p>
+                        </div>
+                        <div className="col-md-6 ">
+                            <h2 className="h3 font-alt">Trade Name Registration</h2>
+                            <p>
+                                We handle name availability checks and ensure your business name complies with the chosen free zone authority’s standards.
+                            </p>
+                        </div>
                     </div>
-                    <div className="col-md-6 ">
-                      <h2 className="h3 font-alt">Trade Name Registration</h2>
-                      <p>
-                        Secure your mainland business identity with a
-                        DED-approved trade name. We check availability, meet
-                        naming rules, and manage the full process—so your brand
-                        starts right.
-                      </p>
-                    </div>
-                  </div>
 
-                  <div className="row">
-                    <div className="col-md-6">
-                      <h2 className="h3 font-alt">
-                        Corporate Administrative Support
-                      </h2>
-                      <p>
-                        Focus on business growth while we manage admin work. Our
-                        UAE-based corporate support covers document processing,
-                        renewals, and government coordination for smooth,
-                        compliant mainland operations.
-                      </p>
+                    <div className="row">
+                        <div className="col-md-6">
+                            <h2 className="h3 font-alt">
+                                Corporate Administrative Support
+                            </h2>
+                            <p>
+                                From license renewals to document handling and liaison with free zone authorities, we take care of the admin so you can grow your business with confidence.
+                            </p>
+                        </div>
+                        <div className="col-md-6">
+                            <h2 className="h3 font-alt">Free Zone Licensing</h2>
+                            <p>
+                                We manage the entire licensing process—including activity selection, document submission, and payment coordination—ensuring you're registered quickly and correctly.
+                            </p>
+                        </div>
                     </div>
-                    <div className="col-md-6">
-                      <h2 className="h3 font-alt">Mainland Licensing</h2>
-                      <p>
-                        We simplify the DED licensing process for your UAE
-                        mainland company. From choosing activities to submitting
-                        documents, we ensure full legal compliance with the
-                        Department of Economic Development.
-                      </p>
-                    </div>
-                  </div>
 
-                  <div className="row">
-                    <div className="col-md-6">
-                      <h2 className="h3 font-alt">PRO & Visa Services</h2>
-                      <p>
-                        Our PRO services in the UAE cover visa applications,
-                        labour card processing, and document
-                        attestation—essential for running a mainland company
-                        with employees or investor residency.
-                      </p>
+                    <div className="row">
+                        <div className="col-md-6">
+                            <h2 className="h3 font-alt">PRO & Visa Services</h2>
+                            <p>
+                                From investor and employee visas to Emirates IDs and labour cards, we take care of all government touchpoints with transparent timelines and efficient tracking.
+                            </p>
+                        </div>
+                        <div className="col-md-6">
+                            <h2 className="h3 font-alt">Bank Account Assistance</h2>
+                            <p>
+                                We coordinate with top UAE banks to help you open a business account by preparing and submitting all necessary documents.
+                            </p>
+                        </div>
                     </div>
-                    <div className="col-md-6">
-                      <h2 className="h3 font-alt">Bank Account Assistance</h2>
-                      <p>
-                        Open a corporate bank account for your UAE mainland
-                        company. We help you prepare the right documents and
-                        connect with trusted local banks for smooth, fast
-                        approvals.
-                      </p>
-                    </div>
-                  </div>
 
-                  <div className="row ">
-                    <div className="col-md-6">
-                      <h2 className="h3 font-alt">Office Setup Support</h2>
-                      <p>
-                        We help secure DED-compliant office space in the UAE
-                        mainland, including Flexi-desks and commercial
-                        units—required to get your business license and operate
-                        legally.
-                      </p>
+                    <div className="row ">
+                        <div className="col-md-6">
+                            <h2 className="h3 font-alt">Office Space Solutions</h2>
+                            <p>
+                                Need a flexi-desk, co-working area, or dedicated office? We help secure approved spaces that meet your free zone's legal and operational requirements.
+                            </p>
+                        </div>
+                        <div className="col-md-6">
+                            <h2 className="h3 font-alt">Ongoing Compliance</h2>
+                            <p>
+                                Stay updated with reminders, document tracking, and expert updates as free zone policies evolve—ensuring your company remains compliant year-round.
+                            </p>
+                        </div>
                     </div>
-                    <div className="col-md-6">
-                      <h2 className="h3 font-alt">Ongoing Compliance</h2>
-                      <p>
-                        Stay compliant with UAE regulations through license
-                        renewals, partner updates, activity modifications, and
-                        documentation support—so your mainland company always
-                        meets legal and operational standards.
-                      </p>
-                    </div>
-                  </div>
                 </div>
-              </section>
+            </section>
+
 
               <hr className="mt-0 mb-0" />
             </>
@@ -177,13 +144,9 @@ export default async function StrongPortfolioSinglePage(props) {
           <div style={{ padding: "50px" }}>
             <h2 className="h3 font-alt text-center">Our Values</h2>
             <p className="text-center">
-              We believe in strategic guidance, trusted partnerships, and
-              collaborative solutions that simplify business setup and drive
-              long-term success in the UAE.
+                At UBIXO, we believe in clarity, consistency, and client-first service. Your free zone company is built on a foundation of integrity and excellence.
             </p>
           </div>
-
-
 
           <div style={{ padding: "50px ", paddingTop: "0px" }}>
             <h2 className="h3 font-alt text-center">
@@ -204,44 +167,57 @@ export default async function StrongPortfolioSinglePage(props) {
           >
             <div className="w-[90%] md:w-[70%]">
               <h2 className="h3 font-alt text-center mb-8">
-                FAQs – Mainland Company Formation in UAE
+                FAQs – Business Setup in UAE & Dubai Free Zones
               </h2>
 
               <div className="space-y-6">
                 {[
-                  {
-                    q: "What is a mainland license in Dubai?",
-                    a: "A mainland license in Dubai allows businesses to operate anywhere in the UAE and internationally. It’s issued by the DED and suits a wide range of business activities.",
-                  },
-                  {
-                    q: "How much does Dubai mainland company formation cost?",
-                    a: "The cost ranges from AED 18,000 to AED 30,000, depending on your business activity, visa quota, and office space requirements.",
-                  },
-                  {
-                    q: "Can foreigners own 100% of a Dubai mainland company?",
-                    a: "Yes, in most sectors, foreign investors can now own 100% of a mainland business without the need for a UAE national sponsor.",
-                  },
-                  {
-                    q: "How long does it take to get a mainland license in Dubai?",
-                    a: "It typically takes 5 to 10 business days if all documents are submitted correctly and approvals are obtained without delays.",
-                  },
-                  {
-                    q: "What are the benefits of setting up a mainland company in the UAE?",
-                    a: "Mainland companies enjoy full UAE market access, no currency restrictions, eligibility for government contracts, and the ability to do business internationally.",
-                  },
-                  {
-                    q: "Do I need a physical office for a mainland license in Dubai?",
-                    a: "Yes, the Dubai DED requires a valid tenancy contract (Ejari) for office or shared workspace to issue a mainland trade license.",
-                  },
-                  {
-                    q: "Can I apply for employee visas under a mainland company license?",
-                    a: "Yes, once your mainland license is issued, you can apply for employment visas based on your company’s activity and office space size.",
-                  },
-                  {
-                    q: "Is VAT registration mandatory for mainland companies?",
-                    a: "VAT registration is required if your company’s taxable turnover exceeds AED 375,000 per year, as per UAE Federal Tax Authority guidelines.",
-                  },
-                ].map((faq, index) => (
+                {
+                    q: "What is a free zone in the UAE?",
+                    a: "A free zone is a designated area where business owners can enjoy 100% foreign ownership, full profit repatriation, and zero personal or corporate tax. UAE free zones are ideal for international trade, services, and consulting businesses.",
+                },
+                {
+                    q: "What are the benefits of setting up a business in a Dubai free zone?",
+                    a: "Setting up in a Dubai free zone offers benefits like 100% ownership, no income tax, quick registration, and modern infrastructure. Popular free zones like DMCC, IFZA, and DAFZA cater to diverse industries.",
+                },
+                {
+                    q: "How do I start a business in a UAE free zone?",
+                    a: "To start a free zone company in the UAE, choose a free zone, select a business activity, submit documents, register your trade name, and obtain your UAE free zone license. UBIXO handles the full process for you.",
+                },
+                {
+                    q: "What documents are required for UAE free zone company formation?",
+                    a: `Commonly required documents include:
+                    Passport copies of shareholders
+                    Visa or entry stamp
+                    Passport-sized photos
+                    Business plan (for some free zones)
+                    Application form`,
+                },
+                {
+                    q: "How much does a free zone license cost in the UAE?",
+                    a: "A UAE free zone license typically starts from AED 5,750 to AED 15,000, depending on the zone, business activity, and office type. Costs may vary for flexi-desk, shared, or dedicated offices.",
+                },
+                {
+                    q: "Can I have a 100% foreign-owned company in a Dubai free zone?",
+                    a: "Yes, all free zone companies in Dubai allow 100% foreign ownership, with no need for a local partner or sponsor.",
+                },
+                {
+                    q: "What is the difference between Dubai mainland and free zone company formation?",
+                    a: "Mainland companies can trade across the UAE and with government entities but may need a local partner (depending on activity). Free zone companies are easier to set up, tax-efficient, and allow full ownership but are limited to operating within their zone or internationally unless they appoint a distributor.",
+                },
+                {
+                    q: "How long does it take to form a freezone company in Dubai or the UAE?",
+                    a: "Freezone company formation in Dubai or anywhere in the UAE typically takes 2 to 5 working days, depending on the free zone and completeness of documents.",
+                },
+                {
+                    q: "Can I open a bank account for my UAE free zone company?",
+                    a: "Yes, once your company is registered and licensed, you can open a corporate bank account in the UAE. UBIXO can assist with bank coordination and documentation.",
+                },
+                {
+                    q: "What types of business activities are allowed in UAE free zones?",
+                    a: "Free zones support various business activities, including trading, consultancy, IT services, e-commerce, logistics, manufacturing, media, and more. Each free zone has its own approved list of activities",
+                },
+            ].map((faq, index) => (
                   <details
                     key={index}
                     className="border rounded-lg p-4 group open:shadow-md transition-all"
@@ -258,12 +234,10 @@ export default async function StrongPortfolioSinglePage(props) {
 
           <div style={{ padding: "50px", paddingTop: "0px" }}>
             <h2 className="h3 font-alt text-center">
-              Start your UAE mainland company with confidence.
+              Ready to Launch in a UAE Free Zone?
             </h2>
             <p className="text-center">
-              Let UBIXO handle the process while you focus on growing your
-              business. Fast setup, expert guidance, and full
-              compliance—guaranteed. <br /> <br />
+             UBIXO ensures your business setup is smooth, fast, and fully compliant—so you can start operating confidently from day one.<br /> <br />
               <Link
                 href={`/contact`}
                 className=" btn btn-mod btn-white btn-large btn-round btn-hover-anim"
@@ -279,214 +253,211 @@ export default async function StrongPortfolioSinglePage(props) {
             <div className="max-w-6xl mx-auto px-4 space-y-6">
               <div>
                 <h3 className="font-semibold text-base">
-                  Mainland Company Formation in UAE
+                UAE Free Zone Business Setup
                 </h3>
                 <p>
-                  Setting up a mainland company in the UAE offers unmatched
-                  business freedom and growth potential. Licensed by the
-                  Department of Economy and Tourism (DET) in Dubai and other
-                  emirates, mainland businesses are allowed to operate across
-                  the UAE and internationally.
-                </p>
-                <p>
-                  With the 2021 reform to the Commercial Companies Law, most
-                  business activities now allow 100% foreign
-                  ownership—eliminating the need for a local sponsor in most
-                  cases. This development has made Dubai mainland company
-                  formation an even more attractive option for investors,
-                  entrepreneurs, and corporations looking to establish a
-                  regional base.
+                Setting up a company in a UAE free zone offers international investors a simplified, cost-effective, and fully owned business structure. Free zones in Dubai and across the UAE—such as DMCC, IFZA, RAKEZ, SHAMS, and DAFZA—provide specialised infrastructure, tax benefits, and a streamlined setup process.
+                With 100% foreign ownership, no import/export duties, and access to global markets, UAE free zones are ideal for startups, SMEs, and multinational companies across all industries.
                 </p>
               </div>
 
               <div>
                 <h4 className="font-medium">
-                  Benefits of UAE Mainland Business Setup
-                </h4>
-                <ul className="list-disc list-inside space-y-1">
-                  <li>
-                    <strong>Operate Without Limitations:</strong> Mainland
-                    companies can trade freely anywhere in the UAE without
-                    restrictions, unlike free zone companies.
-                  </li>
-                  <li>
-                    <strong>Access to Government Contracts:</strong> Only
-                    mainland businesses are eligible to bid for lucrative UAE
-                    government projects and tenders.
-                  </li>
-                  <li>
-                    <strong>100% Foreign Ownership in Key Sectors:</strong>{" "}
-                    Expats can now fully own their mainland business in most
-                    sectors, thanks to UAE's new business ownership laws.
-                  </li>
-                  <li>
-                    <strong>Flexible Business Activities:</strong> Mainland
-                    licenses cover a broad range of commercial, professional,
-                    and industrial activities approved by the DET.
-                  </li>
-                  <li>
-                    <strong>Unlimited Office and Visa Capacity:</strong> The
-                    larger your office space, the more visas you can apply for
-                    under a UAE mainland license.
-                  </li>
-                  <li>
-                    <strong>Global and Local Reach:</strong> Mainland businesses
-                    in Dubai enjoy both international access and full
-                    penetration into the local UAE market.
-                  </li>
-                  <li>
-                    <strong>No Currency Restrictions:</strong> There are no
-                    limits on capital repatriation or currency exchange,
-                    promoting free and seamless financial operations.
-                  </li>
-                  <li>
-                    <strong>Attractive Tax Regime:</strong> UAE mainland
-                    businesses benefit from 0% personal income tax and
-                    competitive corporate tax rates. Eligible SMEs and startups
-                    may also enjoy tax exemptions and simplified compliance
-                    under the UAE’s corporate tax framework.
-                  </li>
-                </ul>
-              </div>
-
-              <div>
-                <h4 className="font-medium">
-                  Cost of Mainland Company Formation in Dubai, UAE
+                Why Choose UAE Free Zone Company Formation?
                 </h4>
                 <p>
-                  The cost of forming a mainland company in Dubai typically
-                  ranges from AED 15,000 to AED 50,000, depending on factors
-                  like:
+                UAE free zones are globally recognised for their investor-friendly policies and efficient services. Here are the main advantages:
                 </p>
                 <ul className="list-disc list-inside space-y-1">
-                  <li>
-                    Business activity and license type (commercial,
-                    professional, or industrial)
-                  </li>
-                  <li>Visa quota required</li>
-                  <li>Office space or Ejari requirements</li>
-                  <li>Additional government approvals (if needed)</li>
-                  <li>Legal documentation and translation needs</li>
-                </ul>
-                <p>
-                  We offer customised packages for startups, SMEs, and
-                  established corporations. To get an exact estimate, consult
-                  our mainland business setup experts.
-                </p>
+                <li>
+                    <strong>100% Foreign Ownership</strong><br />
+                    Own your business fully without needing a local sponsor or service agent.
+                </li>
+                <li>
+                    <strong>Zero Personal and Corporate Tax</strong><br />
+                    Most UAE free zones offer zero income and corporate tax for up to 50 years.
+                </li>
+                <li>
+                    <strong>International Trade-Friendly</strong><br />
+                    Enjoy full repatriation of profits and no currency restrictions.
+                </li>
+                <li>
+                    <strong>Quick and Simple Setup</strong><br />
+                    Company formation can be completed in 2–5 working days depending on the free zone.
+                </li>
+                <li>
+                    <strong>Modern Infrastructure</strong><br />
+                    Benefit from state-of-the-art offices, warehouses, and co-working spaces tailored to your sector.
+                </li>
+                <li>
+                    <strong>Custom Licensing Options</strong><br />
+                    Free zones offer flexible license packages to suit your business activity and scale.
+                </li>
+              </ul>
               </div>
 
               <div>
                 <h4 className="font-medium">
-                  Types of Mainland Licenses in Dubai
+                Step-by-Step Process for Business Setup in UAE Free Zone
                 </h4>
                 <p>
-                  There are three primary categories of business licenses for
-                  mainland companies:
+                UBIXO streamlines your free zone setup with expert support at each stage:
                 </p>
-                <ul className="list-disc list-inside space-y-1">
-                  <li>
-                    <strong>Commercial License:</strong> For trading, retail, or
-                    general commercial activities.
-                  </li>
-                  <li>
-                    <strong>Professional License:</strong> For service-oriented
-                    businesses like consultancies, education, healthcare, and
-                    IT.
-                  </li>
-                  <li>
-                    <strong>Industrial License:</strong> For manufacturing,
-                    production, and industrial operations.
-                  </li>
-                </ul>
-                <p>
-                  Each license type comes with its own set of requirements,
-                  approvals, and permitted activities as defined by the DET.
-                </p>
-              </div>
-
-              <div>
-                <h4 className="font-medium">
-                  Step-by-Step Process for Mainland Company Formation in UAE
-                </h4>
                 <ol className="list-decimal list-inside space-y-1">
-                  <li>Determine Your Business Activity</li>
-                  <li>Choose a Legal Structure</li>
-                  <li>Register a Trade Name</li>
-                  <li>Secure Office Space</li>
-                  <li>Get Initial Approval</li>
-                  <li>Submit Documents and Pay Fees</li>
-                  <li>Collect the License</li>
-                  <li>Apply for Visas and Open a Bank Account</li>
+                <li>Select a Free Zone<br />Choose based on your business activity, location preference, and infrastructure needs (e.g., DMCC for trading, IFZA for services).</li>
+                <li>Decide Legal Structure<br />Options include Free Zone Establishment (FZE), Free Zone Company (FZC), or Branch of a Foreign Company.</li>
+                <li>Reserve a Trade Name<br />Submit preferred names for approval as per the free zone authority’s naming guidelines.</li>
+                <li>Apply for Initial Approval<br />Obtain NOC and initial clearance to proceed with licensing and office lease.</li>
+                <li>Choose Office Space<br />Select from flexi-desks, shared offices, or warehouses depending on your license type.</li>
+                <li>Submit Documentation & Receive License<br />Complete all documentation and receive your UAE free zone trade license.</li>
+                <li>Apply for Visas & Bank Account<br />Get investor/employee visas and open a UAE corporate bank account with our assistance.</li>
                 </ol>
               </div>
 
               <div>
                 <h4 className="font-medium">
-                  Documents Required for Mainland Company Formation in the UAE
+                Types of Free Zone Licenses in the UAE
                 </h4>
                 <p>
-                  To register a mainland company in Dubai or anywhere in the
-                  UAE, you’ll need to submit specific documents to the
-                  Department of Economy and Tourism (DET) and other authorities.
-                  Here’s a general list:
-                </p>
-
-                <p>
-                  <strong>For Individual Shareholders:</strong>
+                Free zones offer flexible licensing options tailored to your business model:
                 </p>
                 <ul className="list-disc list-inside space-y-1">
-                  <li>Passport copy of all shareholders</li>
-                  <li>UAE entry stamp or visa copy (if applicable)</li>
-                  <li>Passport-sized photographs (white background)</li>
-                  <li>Emirates ID copy (for residents)</li>
-                  <li>
-                    NOC from current sponsor (if UAE resident and employed)
-                  </li>
-                </ul>
+                <li>
+                    <strong>Commercial License</strong><br />
+                    For trading, general trading, e-commerce, and import/export activities.
+                </li>
+                <li>
+                    <strong>Service/Professional License</strong><br />
+                    For consultancy, IT, digital services, education, marketing, and similar professions.
+                </li>
+                <li>
+                    <strong>Industrial License</strong><br />
+                    For manufacturing, packaging, food processing, and light or heavy industry.
+                </li>
+            </ul>
+            <p>
+                UBIXO helps you choose the ideal license that matches your goals and meets free zone regulations.
+            </p>
+              </div>
 
+              <div>
+                <h4 className="font-medium">
+                    Permitted Business Entities in UAE Free Zones
+                </h4>
                 <p>
-                  <strong>For Corporate Shareholders:</strong>
+                    Each free zone allows different legal structures, including:
                 </p>
                 <ul className="list-disc list-inside space-y-1">
-                  <li>Certificate of incorporation</li>
-                  <li>Memorandum & Articles of Association (MOA/AOA)</li>
-                  <li>Board resolution to establish the new company</li>
-                  <li>
-                    Power of Attorney (POA) in favour of a legal representative
-                  </li>
-                  <li>Trade license copy (if applicable)</li>
+                    <li>
+                        <strong>Free Zone Establishment (FZE)</strong><br />
+                        Single shareholder company ideal for solo investors.
+                    </li>
+                    <li>
+                        <strong>Free Zone Company (FZC)</strong><br />
+                        Two or more shareholders forming a limited liability entity.
+                    </li>
+                    <li>
+                        <strong>Branch of a Foreign Company</strong><br />
+                        Allows overseas businesses to expand into the UAE without a local partner.
+                    </li>
                 </ul>
-
                 <p>
-                  <strong>General Business Setup Documents:</strong>
-                </p>
-                <ul className="list-disc list-inside space-y-1">
-                  <li>Proposed trade name approval</li>
-                  <li>Initial approval certificate from DET</li>
-                  <li>Tenancy contract (Ejari) for office space</li>
-                  <li>MOA/LSA Agreement (if required by business type)</li>
-                  <li>
-                    Additional approvals (e.g. from Dubai Municipality, DHA,
-                    MOHRE, etc.) depending on activity
-                  </li>
-                </ul>
-
-                <p>
-                  <strong>Note:</strong> Document requirements can vary
-                  depending on your business activity and legal structure.
-                  Always consult our experts at UBIXO to get a checklist
-                  tailored to your setup.
+                    UBIXO ensures your entity structure is compliant with free zone laws and future-ready.
                 </p>
               </div>
 
               <div>
                 <h4 className="font-medium">
-                  Ready to Launch Your UAE Mainland Business?
+                    Required Documents for UAE Free Zone Company Formation
                 </h4>
                 <p>
-                  Start your journey to business success in Dubai or anywhere in
-                  the UAE. Let UBIXO handle the legalities while you focus on
-                  growth.
+                    Prepare the following documents:
+                </p>
+                <ul className="list-disc list-inside space-y-1">
+                    <li>Passport copies of shareholders and managers</li>
+                    <li>Visa or entry stamp copy</li>
+                    <li>Passport-sized photographs</li>
+                    <li>Trade name approval</li>
+                    <li>Application form</li>
+                    <li>Office lease agreement (if required)</li>
+                    <li>MOA (for multi-shareholder setups)</li>
+                </ul>
+                <p>
+                    UBIXO handles all translations, attestations, and document submissions to avoid delays.
+                </p>
+              </div>
+              <div>
+                  <h4 className="font-medium">
+                    Cost of UAE Free Zone Business Setup
+                </h4>
+                <p>
+                    Free zone company setup is affordable and transparent:
+                </p>
+                <ul className="list-disc list-inside space-y-1">
+                    <li>License packages start from AED 5,750 to AED 15,000+</li>
+                    <li>Total cost depends on chosen free zone, business activity, and visa quota</li>
+                    <li>Office type (Flexi-desk, co-working, or warehouse) also impacts pricing</li>
+                    <li>Add-ons like visa services, legal drafting, and banking support available</li>
+                </ul>
+                <p>
+                    UBIXO provides customisable packages with no hidden fees and a full cost breakdown.
+                </p>
+              </div>
+              <div>
+                <h4 className="font-medium">
+                    Common Business Activities Allowed in UAE Free Zones
+                </h4>
+                <p>
+                    Free zones support a wide range of activities including:
+                </p>
+                <ul className="list-disc list-inside space-y-1">
+                    <li>General Trading and E-Commerce</li>
+                    <li>Technology and Software Development</li>
+                    <li>Digital Marketing and Media</li>
+                    <li>Logistics, Warehousing, and Distribution</li>
+                    <li>Education, Consultancy, and Training</li>
+                    <li>Manufacturing and Industrial Services</li>
+                    <li>Health & Wellness Services</li>
+                    <li>Import/Export and Freight Forwarding</li>
+                </ul>
+                <p>
+                    UBIXO helps you align your selected activity with the right free zone and license.
+                </p>
+              </div>
+              <div className="col-md-6">
+                <h2 className="h3 font-alt">Key Requirements for Free Zone Business Setup</h2>
+                <p>
+                  To register and operate a UAE free zone company, you must:
+                </p>
+                <ul>
+                  <li>Choose a licensed free zone</li>
+                  <li>Finalise business activity and structure</li>
+                  <li>Provide all shareholder documents</li>
+                  <li>Secure physical or virtual office space</li>
+                  <li>Complete immigration procedures (visas, Emirates ID)</li>
+                  <li>Stay compliant with license renewals and reporting</li>
+                </ul>
+                <p>
+                  UBIXO manages the full process to ensure you stay compliant from day
+                  one.
+                </p>
+              </div>
+              <div className="col-md-6">
+                <h2 className="h3 font-alt">Start Your UAE Free Zone Business with UBIXO</h2>
+                <p>
+                  With 3,000+ clients and expert knowledge of UAE free zone
+                  regulations, UBIXO delivers:
+                </p>
+                <ul>
+                  <li>Quick and compliant company formation</li>
+                  <li>Trade name registration and license issuance</li>
+                  <li>PRO services and visa processing</li>
+                  <li>Bank account setup with major UAE banks</li>
+                  <li>Transparent pricing and end-to-end support</li>
+                </ul>
+                <p>
+                  Build your future in the UAE free zone with UBIXO—your reliable
+                  company formation partner.
                 </p>
                 <p className="mb-0">
                   Call us today or{" "}
@@ -496,8 +467,6 @@ export default async function StrongPortfolioSinglePage(props) {
                   to get your mainland license with confidence and clarity.
                 </p>
               </div>
-              
-
             </div>
           </div>
 
