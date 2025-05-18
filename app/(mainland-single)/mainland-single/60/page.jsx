@@ -169,9 +169,7 @@ export default async function StrongPortfolioSinglePage(props) {
           <div style={{ padding: "50px" }}>
             <h2 className="h3 font-alt text-center">Our Values</h2>
             <p className="text-center">
-              We believe in strategic guidance, trusted partnerships, and
-              collaborative solutions that simplify business setup and drive
-              long-term success in the UAE.
+            We stand for clarity, compliance, and collaborative growth. At UBIXO, your business success is our shared mission.
             </p>
           </div>
 
@@ -194,42 +192,42 @@ export default async function StrongPortfolioSinglePage(props) {
           >
             <div className="w-[90%] md:w-[70%]">
               <h2 className="h3 font-alt text-center mb-8">
-                FAQs – Mainland Company Formation in UAE
+                FAQs – Mainland Company Formation in Abu Dhabi
               </h2>
 
               <div className="space-y-6">
                 {[
                   {
-                    q: "What is a mainland license in Dubai?",
-                    a: "A mainland license in Dubai allows businesses to operate anywhere in the UAE and internationally. It’s issued by the DED and suits a wide range of business activities.",
+                    q: "What is a mainland company in Abu Dhabi?",
+                    a: "A mainland company in Abu Dhabi is a business licensed by the Abu Dhabi Department of Economic Development (ADDED) that can operate across the UAE and internationally. These companies are not restricted to free zones and enjoy greater market access, flexibility, and government contract eligibility.",
                   },
                   {
-                    q: "How much does Dubai mainland company formation cost?",
-                    a: "The cost ranges from AED 18,000 to AED 30,000, depending on your business activity, visa quota, and office space requirements.",
+                    q: "How much does it cost to start a mainland company in Abu Dhabi?",
+                    a: "The cost to start a mainland company in Abu Dhabi ranges from AED 15,000 to AED 50,000, depending on your selected business activity, visa quota, office space (Ejari), and any additional government approvals required.",
                   },
                   {
-                    q: "Can foreigners own 100% of a Dubai mainland company?",
-                    a: "Yes, in most sectors, foreign investors can now own 100% of a mainland business without the need for a UAE national sponsor.",
+                    q: "Can foreigners own 100% of a mainland company in Abu Dhabi?",
+                    a: "Yes, as per the UAE Commercial Companies Law reforms, 100% foreign ownership is allowed for most business activities in Abu Dhabi mainland, without the need for a local Emirati partner.",
                   },
                   {
-                    q: "How long does it take to get a mainland license in Dubai?",
-                    a: "It typically takes 5 to 10 business days if all documents are submitted correctly and approvals are obtained without delays.",
+                    q: "How long does it take to get a mainland business license in Abu Dhabi?",
+                    a: "It typically takes 5 to 10 working days to get a business license in Abu Dhabi mainland, provided all documents are accurate and approvals are granted without delays.",
                   },
                   {
-                    q: "What are the benefits of setting up a mainland company in the UAE?",
-                    a: "Mainland companies enjoy full UAE market access, no currency restrictions, eligibility for government contracts, and the ability to do business internationally.",
+                    q: "Do I need an office space to open a mainland company in Abu Dhabi?",
+                    a: "Yes, ADDED requires a valid tenancy contract (Ejari) for an office, warehouse, or coworking space in order to issue a mainland license.",
                   },
                   {
-                    q: "Do I need a physical office for a mainland license in Dubai?",
-                    a: "Yes, the Dubai DED requires a valid tenancy contract (Ejari) for office or shared workspace to issue a mainland trade license.",
+                    q: "Can I apply for employee or investor visas under a mainland company in Abu Dhabi?",
+                    a: "Yes. Once your mainland license is issued, you can apply for residency visas for investors and employees, subject to office size and business activity.",
                   },
                   {
-                    q: "Can I apply for employee visas under a mainland company license?",
-                    a: "Yes, once your mainland license is issued, you can apply for employment visas based on your company’s activity and office space size.",
+                    q: "What are the benefits of setting up a mainland business in Abu Dhabi?",
+                    a: "Some major benefits include 100% foreign ownership, unlimited market access across the UAE, eligibility for government contracts, no currency restrictions, and a business-friendly tax regime.",
                   },
                   {
-                    q: "Is VAT registration mandatory for mainland companies?",
-                    a: "VAT registration is required if your company’s taxable turnover exceeds AED 375,000 per year, as per UAE Federal Tax Authority guidelines.",
+                    q: "Is VAT registration mandatory for Abu Dhabi mainland companies?",
+                    a: "VAT registration is required if your company’s annual taxable turnover exceeds AED 375,000, in accordance with the UAE Federal Tax Authority.",
                   },
                 ].map((faq, index) => (
                   <details
@@ -268,105 +266,69 @@ export default async function StrongPortfolioSinglePage(props) {
             <div className="max-w-6xl mx-auto px-4 space-y-6">
               <div>
                 <h3 className="font-semibold text-base">
-                  Mainland Company Formation in UAE
+                  Mainland Company Formation in Abu Dhabi
                 </h3>
                 <p>
-                  Setting up a mainland company in the UAE offers unmatched
-                  business freedom and growth potential. Licensed by the
-                  Department of Economy and Tourism (DET) in Dubai and other
-                  emirates, mainland businesses are allowed to operate across
-                  the UAE and internationally.
+                Starting a mainland company in Abu Dhabi gives you the freedom to operate without restrictions across all emirates and internationally. Licensed by the Abu Dhabi Department of Economic Development (ADDED), mainland businesses enjoy unmatched flexibility, government contract eligibility, and ownership control.
                 </p>
                 <p>
-                  With the 2021 reform to the Commercial Companies Law, most
-                  business activities now allow 100% foreign
-                  ownership—eliminating the need for a local sponsor in most
-                  cases. This development has made Dubai mainland company
-                  formation an even more attractive option for investors,
-                  entrepreneurs, and corporations looking to establish a
-                  regional base.
                 </p>
               </div>
 
               <div>
                 <h4 className="font-medium">
-                  Benefits of UAE Mainland Business Setup
+                  Benefits of Abu Dhabi Mainland Business Setup
                 </h4>
                 <ul className="list-disc list-inside space-y-1">
-                  <li>
-                    <strong>Operate Without Limitations:</strong> Mainland
-                    companies can trade freely anywhere in the UAE without
-                    restrictions, unlike free zone companies.
-                  </li>
-                  <li>
-                    <strong>Access to Government Contracts:</strong> Only
-                    mainland businesses are eligible to bid for lucrative UAE
-                    government projects and tenders.
-                  </li>
-                  <li>
-                    <strong>100% Foreign Ownership in Key Sectors:</strong>{" "}
-                    Expats can now fully own their mainland business in most
-                    sectors, thanks to UAE's new business ownership laws.
-                  </li>
-                  <li>
-                    <strong>Flexible Business Activities:</strong> Mainland
-                    licenses cover a broad range of commercial, professional,
-                    and industrial activities approved by the DET.
-                  </li>
-                  <li>
-                    <strong>Unlimited Office and Visa Capacity:</strong> The
-                    larger your office space, the more visas you can apply for
-                    under a UAE mainland license.
-                  </li>
-                  <li>
-                    <strong>Global and Local Reach:</strong> Mainland businesses
-                    in Dubai enjoy both international access and full
-                    penetration into the local UAE market.
-                  </li>
-                  <li>
-                    <strong>No Currency Restrictions:</strong> There are no
-                    limits on capital repatriation or currency exchange,
-                    promoting free and seamless financial operations.
-                  </li>
-                  <li>
-                    <strong>Attractive Tax Regime:</strong> UAE mainland
-                    businesses benefit from 0% personal income tax and
-                    competitive corporate tax rates. Eligible SMEs and startups
-                    may also enjoy tax exemptions and simplified compliance
-                    under the UAE’s corporate tax framework.
-                  </li>
+                <li>
+                <strong>100% Foreign Ownership:</strong> No local sponsor needed for most activities.
+                </li>
+                <li>
+                <strong>Full UAE Market Access:</strong> Operate in any emirate or internationally.
+                </li>
+                <li>
+                <strong>Eligibility for Government Contracts:</strong> Bid for local and federal tenders.
+                </li>
+                <li>
+                <strong>Wide Range of Activities:</strong> Trade, professional, and industrial licenses available.
+                </li>
+                <li>
+                <strong>Unlimited Visas:</strong> Based on your office size and business needs.
+                </li>
+                <li>
+                <strong>No Currency Restrictions:</strong> Full repatriation of profits and capital allowed.
+                </li>
+                <li>
+                <strong>Attractive Tax Environment:</strong> 0% personal tax and corporate tax benefits for SMEs.
+                </li>
+                <li>
+                <strong>Business Growth Incentives:</strong> Abu Dhabi actively supports entrepreneurship and innovation.
+                </li>
                 </ul>
               </div>
 
               <div>
                 <h4 className="font-medium">
-                  Cost of Mainland Company Formation in Dubai, UAE
+                  Cost of Mainland Company Formation in Abu Dhabi
                 </h4>
                 <p>
-                  The cost of forming a mainland company in Dubai typically
-                  ranges from AED 15,000 to AED 50,000, depending on factors
-                  like:
+                Starting a mainland company in Abu Dhabi typically costs between AED 15,000 and AED 50,000. Factors affecting cost include:
                 </p>
                 <ul className="list-disc list-inside space-y-1">
-                  <li>
-                    Business activity and license type (commercial,
-                    professional, or industrial)
-                  </li>
-                  <li>Visa quota required</li>
-                  <li>Office space or Ejari requirements</li>
-                  <li>Additional government approvals (if needed)</li>
-                  <li>Legal documentation and translation needs</li>
+                <li>Business activity and license type (commercial, professional, or industrial)</li>
+                <li>Visa quota required</li>
+                <li>Office space or Ejari requirements</li>
+                <li>Additional government approvals (if needed)</li>
+                <li>Legal documentation and translation needs</li>
                 </ul>
                 <p>
-                  We offer customised packages for startups, SMEs, and
-                  established corporations. To get an exact estimate, consult
-                  our mainland business setup experts.
+                We offer customised packages tailored to your business model and growth objectives. For an accurate quote, consult our Abu Dhabi mainland setup experts.
                 </p>
               </div>
 
               <div>
                 <h4 className="font-medium">
-                  Types of Mainland Licenses in Dubai
+                  Types of Mainland Licenses in Abu Dhabi
                 </h4>
                 <p>
                   There are three primary categories of business licenses for
@@ -393,28 +355,13 @@ export default async function StrongPortfolioSinglePage(props) {
                 </p>
               </div>
 
-              <div>
-                <h4 className="font-medium">
-                  Step-by-Step Process for Mainland Company Formation in UAE
-                </h4>
-                <ol className="list-decimal list-inside space-y-1">
-                  <li>Determine Your Business Activity</li>
-                  <li>Choose a Legal Structure</li>
-                  <li>Register a Trade Name</li>
-                  <li>Secure Office Space</li>
-                  <li>Get Initial Approval</li>
-                  <li>Submit Documents and Pay Fees</li>
-                  <li>Collect the License</li>
-                  <li>Apply for Visas and Open a Bank Account</li>
-                </ol>
-              </div>
 
               <div>
                 <h4 className="font-medium">
-                  Documents Required for Mainland Company Formation in the UAE
+                  Documents Required for Mainland Company Formation in the Abu Dhabi
                 </h4>
                 <p>
-                  To register a mainland company in Dubai or anywhere in the
+                  To register a mainland company in Abu Dhabi or anywhere in the
                   UAE, you’ll need to submit specific documents to the
                   Department of Economy and Tourism (DET) and other authorities.
                   Here’s a general list:
@@ -455,7 +402,7 @@ export default async function StrongPortfolioSinglePage(props) {
                   <li>Tenancy contract (Ejari) for office space</li>
                   <li>MOA/LSA Agreement (if required by business type)</li>
                   <li>
-                    Additional approvals (e.g. from Dubai Municipality, DHA,
+                    Additional approvals (e.g. from Abu Dhabi Municipality, DHA,
                     MOHRE, etc.) depending on activity
                   </li>
                 </ul>
@@ -470,10 +417,10 @@ export default async function StrongPortfolioSinglePage(props) {
 
               <div>
                 <h4 className="font-medium">
-                  Ready to Launch Your UAE Mainland Business?
+                  Ready to Launch Your Abu Dhabi Mainland Business?
                 </h4>
                 <p>
-                  Start your journey to business success in Dubai or anywhere in
+                  Start your journey to business success in Abu Dhabi or anywhere in
                   the UAE. Let UBIXO handle the legalities while you focus on
                   growth.
                 </p>
