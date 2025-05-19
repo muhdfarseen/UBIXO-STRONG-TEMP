@@ -443,11 +443,11 @@ export default async function StrongPortfolioSinglePage(props) {
                 <h4 className="font-medium">Start Your Sharjah Free Zone Company with UBIXO</h4>
                 <p>With over 3,000+ satisfied clients, UBIXO is your trusted partner for Sharjah Free Zone company formation. We offer:</p>
                 <ul>
-                  <li>✔ License registration & trade name approval</li>
-                  <li>✔ Full visa processing & PRO services</li>
-                  <li>✔ UAE bank account assistance</li>
-                  <li>✔ Compliance management & renewals</li>
-                  <li>✔ Transparent pricing with no surprise charges</li>
+                  <li>License registration & trade name approval</li>
+                  <li>Full visa processing & PRO services</li>
+                  <li>UAE bank account assistance</li>
+                  <li>Compliance management & renewals</li>
+                  <li>Transparent pricing with no surprise charges</li>
                 </ul>
                 <p>Launch your business in the Sharjah Free Zone with UBIXO—efficiently, affordably, and with expert support.</p>
                 <p className="mb-0">
