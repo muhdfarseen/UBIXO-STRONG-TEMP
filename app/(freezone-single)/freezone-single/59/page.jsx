@@ -425,7 +425,7 @@ export default async function StrongPortfolioSinglePage(props) {
                 </p>
               </div>
               <div className="col-md-6">
-                <h2 className="h3 font-alt">Key Requirements for Free Zone Business Setup</h2>
+              <h4 className="font-medium">Key Requirements for Free Zone Business Setup</h4>
                 <p>
                   To register and operate a UAE free zone company, you must:
                 </p>
@@ -443,7 +443,7 @@ export default async function StrongPortfolioSinglePage(props) {
                 </p>
               </div>
               <div className="col-md-6">
-                <h2 className="h3 font-alt">Start Your UAE Free Zone Business with UBIXO</h2>
+              <h4 className="font-medium">Start Your UAE Free Zone Business with UBIXO</h4>
                 <p>
                   With 3,000+ clients and expert knowledge of UAE free zone
                   regulations, UBIXO delivers:
@@ -464,7 +464,7 @@ export default async function StrongPortfolioSinglePage(props) {
                   <a href="#contact" className="underline text-blue-600">
                     Contact Us
                   </a>{" "}
-                  to get your mainland license with confidence and clarity.
+                  to get your freezone license with confidence and clarity.
                 </p>
               </div>
             </div>

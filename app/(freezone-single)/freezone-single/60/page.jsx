@@ -41,13 +41,10 @@ export default async function StrongPortfolioSinglePage(props) {
                   <h1 className="hs-title-7 mb-0">
                     <span className="wow charsAnimIn-2" data-splitting="chars">
                       <AnimatedText
-                        text={portfolioItem.title
-                          .split(" ")
-                          .slice(0, 1)
-                          .join(" ")}
-                      />{" "}
+                        text={"Freezone"}
+                      /> 
                       <span className="font-alt">
-                        <AnimatedText text={"Business Setup in Abu Dhabi"} />
+                        <AnimatedText text={"UAE"} />
                       </span>
                     </span>
                   </h1>
@@ -60,17 +57,18 @@ export default async function StrongPortfolioSinglePage(props) {
                 <div className="container relative">
                   <div className="row mb-sm-20">
                     <h2 className="h3 font-alt mb-20">
-                      The capital advantage: Set up in Abu Dhabi mainland with
-                      expert local support to maximise growth and compliance.
+                      Launch your business in Abu Dhabi free zones—offering 100%
+                      foreign ownership, diverse activities, global market
+                      access, and a streamlined setup in a strategic UAE
+                      location.
                     </h2>
                     <p className="mb-0">
-                      At UBIXO, our Abu Dhabi mainland business setup team
-                      combines deep regulatory knowledge with strategic
-                      execution. We understand ADDED protocols, local customs,
-                      and investor preferences. From selecting the right legal
-                      structure to securing office space and visas, we offer an
-                      end-to-end solution tailored to Abu Dhabi’s evolving
-                      business ecosystem.
+                      At UBIXO, we specialise in company setup in Abu Dhabi free
+                      zone locations, offering end-to-end support for
+                      entrepreneurs, startups, and international investors.
+                      Whether you’re launching a consultancy, a trading firm, or a
+                      tech venture, our consultants simplify the process—from
+                      license acquisition to visa processing and beyond.
                     </p>
                   </div>
                 </div>
@@ -82,17 +80,19 @@ export default async function StrongPortfolioSinglePage(props) {
                     <div className="col-md-6 ">
                       <h2 className="h3 font-alt">Company Formation</h2>
                       <p>
-                        Register your Abu Dhabi mainland company with full
-                        support—from legal structure selection to ADDED
-                        registration—delivered with clarity and speed.
+                        We manage your entire Abu Dhabi free zone company
+                        formation process—starting from business activity
+                        selection to obtaining your trade license and company
+                        registration. Our experts ensure every step is accurate
+                        and compliant.
                       </p>
                     </div>
                     <div className="col-md-6 ">
                       <h2 className="h3 font-alt">Trade Name Registration</h2>
                       <p>
-                        We ensure your trade name meets ADDED standards, conduct
-                        availability checks, and manage approvals to establish
-                        your brand identity.
+                        We assist in selecting and registering a compliant trade
+                        name that aligns with Abu Dhabi free zone
+                        regulations—ensuring approval without delays.
                       </p>
                     </div>
                   </div>
@@ -103,17 +103,21 @@ export default async function StrongPortfolioSinglePage(props) {
                         Corporate Administrative Support
                       </h2>
                       <p>
-                        Let us handle renewals, document processing, and
-                        ADDED/Government liaisons—so you stay focused on running
-                        your business.
+                        UBIXO handles all administrative responsibilities such as
+                        license renewals, regulatory updates, and document
+                        management—allowing you to focus on business growth while
+                        we ensure compliance.
                       </p>
                     </div>
                     <div className="col-md-6">
-                      <h2 className="h3 font-alt">Mainland Licensing</h2>
+                      <h2 className="h3 font-alt">
+                        Abu Dhabi Free Zone Licensing
+                      </h2>
                       <p>
-                        From activity selection to application submission, we
-                        manage all licensing steps under ADDED for complete
-                        legal compliance.
+                        Whether professional, commercial, or industrial, we help
+                        you apply for the correct Abu Dhabi free zone
+                        license—ensuring fast-track processing with minimal
+                        errors.
                       </p>
                     </div>
                   </div>
@@ -122,42 +126,44 @@ export default async function StrongPortfolioSinglePage(props) {
                     <div className="col-md-6">
                       <h2 className="h3 font-alt">PRO & Visa Services</h2>
                       <p>
-                        From investor and employee visa applications to Emirates
-                        ID and labour card processing, we streamline every step
-                        efficiently.
+                        We manage all government interactions under Abu Dhabi free
+                        zone visa protocols—covering investor visas, employee
+                        visas, Emirates ID processing, and establishment cards
+                        with full transparency and timely updates.
                       </p>
                     </div>
                     <div className="col-md-6">
                       <h2 className="h3 font-alt">Bank Account Assistance</h2>
                       <p>
-                        We connect you with Abu Dhabi’s top banks and assist
-                        with document preparation for fast, compliant account
-                        opening.
+                        UBIXO connects you with reputable banks in the UAE and
+                        assists in compiling and submitting all required
+                        documents for seamless business account opening.
                       </p>
                     </div>
                   </div>
 
                   <div className="row ">
                     <div className="col-md-6">
-                      <h2 className="h3 font-alt">Office Setup Support</h2>
+                      <h2 className="h3 font-alt">Office Space Solutions</h2>
                       <p>
-                        Whether you need a Flexi-desk or a full commercial unit,
-                        we help you secure ADDED-compliant office space critical
-                        for licensing.
+                        Choose from flexi-desks, shared workspaces, or dedicated
+                        offices in Abu Dhabi free zones. We guide you in
+                        selecting the right space that meets both legal and
+                        operational needs.
                       </p>
                     </div>
                     <div className="col-md-6">
                       <h2 className="h3 font-alt">Ongoing Compliance</h2>
                       <p>
-                        Stay ahead with reminders and full support for renewals,
-                        document updates, and regulatory changes affecting your
-                        business.
+                        Our admin team ensures your business remains up to date
+                        with the latest Abu Dhabi free zone regulations through
+                        proactive compliance checks, reminders, and
+                        documentation tracking.
                       </p>
                     </div>
                   </div>
                 </div>
               </section>
-
               <hr className="mt-0 mb-0" />
             </>
           </main>
@@ -169,9 +175,9 @@ export default async function StrongPortfolioSinglePage(props) {
           <div style={{ padding: "50px" }}>
             <h2 className="h3 font-alt text-center">Our Values</h2>
             <p className="text-center">
-              We believe in strategic guidance, trusted partnerships, and
-              collaborative solutions that simplify business setup and drive
-              long-term success in the UAE.
+              UBIXO stands for clarity, precision, and genuine client care. Every
+              Abu Dhabi free zone business setup we handle is built on trust,
+              efficiency, and your long-term success.
             </p>
           </div>
 
@@ -194,44 +200,57 @@ export default async function StrongPortfolioSinglePage(props) {
           >
             <div className="w-[90%] md:w-[70%]">
               <h2 className="h3 font-alt text-center mb-8">
-                FAQs – Mainland Company Formation in UAE
+                FAQs – Abu Dhabi Free Zone Company Formation
               </h2>
 
               <div className="space-y-6">
                 {[
                   {
-                    q: "What is a mainland license in Dubai?",
-                    a: "A mainland license in Dubai allows businesses to operate anywhere in the UAE and internationally. It’s issued by the DED and suits a wide range of business activities.",
+                    q: "What is an Abu Dhabi free zone?",
+                    a: "Abu Dhabi free zones are designated economic areas offering 100% foreign ownership, tax benefits, and streamlined processes for international investors. These zones support a wide range of business activities and provide a business-friendly environment for company setup.",
                   },
                   {
-                    q: "How much does Dubai mainland company formation cost?",
-                    a: "The cost ranges from AED 18,000 to AED 30,000, depending on your business activity, visa quota, and office space requirements.",
+                    q: "How do I start a company in an Abu Dhabi free zone?",
+                    a: "Setting up a company in an Abu Dhabi free zone involves choosing a business activity, reserving a trade name, applying for an Abu Dhabi free zone license, leasing office space, and completing visa and compliance formalities. UBIXO can manage this entire process for you.",
                   },
                   {
-                    q: "Can foreigners own 100% of a Dubai mainland company?",
-                    a: "Yes, in most sectors, foreign investors can now own 100% of a mainland business without the need for a UAE national sponsor.",
+                    q: "What are the benefits of Abu Dhabi free zone company formation?",
+                    a: "Benefits include full foreign ownership, tax exemptions, simplified customs procedures, access to international markets, and eligibility for an Abu Dhabi free zone visa for investors and employees.",
                   },
                   {
-                    q: "How long does it take to get a mainland license in Dubai?",
-                    a: "It typically takes 5 to 10 business days if all documents are submitted correctly and approvals are obtained without delays.",
+                    q: "Which are the major Abu Dhabi free zones?",
+                    a: `Some well-known names from the Abu Dhabi free zone list include:
+                        Khalifa Industrial Zone (KIZAD)
+                        Abu Dhabi Airport Free Zone (ADAFZ)
+                        Twofour54 (media free zone)
+                        Masdar City Free Zone
+                        Each free zone caters to specific industries and business needs.`,
                   },
                   {
-                    q: "What are the benefits of setting up a mainland company in the UAE?",
-                    a: "Mainland companies enjoy full UAE market access, no currency restrictions, eligibility for government contracts, and the ability to do business internationally.",
+                    q: "What is the cost of an Abu Dhabi free zone license?",
+                    a: "The Abu Dhabi free zone license cost depends on your business activity, office space type, and visa requirements. On average, the cost starts from AED 10,000 and can vary depending on the chosen free zone and business model.",
                   },
                   {
-                    q: "Do I need a physical office for a mainland license in Dubai?",
-                    a: "Yes, the Dubai DED requires a valid tenancy contract (Ejari) for office or shared workspace to issue a mainland trade license.",
+                    q: "What types of licenses are available in Abu Dhabi free zones?",
+                    a: `You can obtain different types of Abu Dhabi free zone trade licenses, including:
+                        Commercial license
+                        Professional license
+                        Industrial license
+                        Each license type supports specific business activities.`,
                   },
                   {
-                    q: "Can I apply for employee visas under a mainland company license?",
-                    a: "Yes, once your mainland license is issued, you can apply for employment visas based on your company’s activity and office space size.",
+                    q: "Can I get a visa through an Abu Dhabi free zone company?",
+                    a: "Yes, business owners and employees are eligible for an Abu Dhabi free zone visa. The number of visas permitted often depends on the type of office or facility leased within the free zone.",
                   },
                   {
-                    q: "Is VAT registration mandatory for mainland companies?",
-                    a: "VAT registration is required if your company’s taxable turnover exceeds AED 375,000 per year, as per UAE Federal Tax Authority guidelines.",
+                    q: "How long does company setup in the Abu Dhabi free zone take?",
+                    a: "With proper documentation, company setup in the Abu Dhabi free zone can take as little as 5–10 business days. Timelines may vary slightly depending on the free zone and nature of the business.",
                   },
-                ].map((faq, index) => (
+                  {
+                    q: "Do I need a physical office to set up in an Abu Dhabi free zone?",
+                    a: "Most Abu Dhabi free zones offer flexible office solutions, including virtual offices, flexi-desks, and executive offices—making setting up a company in an Abu Dhabi free zone affordable and scalable.",
+                  },
+            ].map((faq, index) => (
                   <details
                     key={index}
                     className="border rounded-lg p-4 group open:shadow-md transition-all"
@@ -248,10 +267,12 @@ export default async function StrongPortfolioSinglePage(props) {
 
           <div style={{ padding: "50px", paddingTop: "0px" }}>
             <h2 className="h3 font-alt text-center">
-            Ready to Set Up in Abu Dhabi Mainland?
+             Ready to Start Your Abu Dhabi Free Zone Company?
             </h2>
             <p className="text-center">
-            UBIXO ensures a fast, compliant start with full support at every stage.<br /> <br />
+              UBIXO ensures a seamless, cost-effective, and fully compliant Abu
+              Dhabi free zone company formation process—so you can focus on what
+              matters: growing your business.<br /> <br />
               <Link
                 href={`/contact`}
                 className=" btn btn-mod btn-white btn-large btn-round btn-hover-anim"
@@ -261,228 +282,282 @@ export default async function StrongPortfolioSinglePage(props) {
             </p>
           </div>
 
-          <div
-            style={{ paddingTop: "30px" }}
-            className=" bg-dark-1 light-content"
-          >
+          
+
+          <div style={{paddingTop:"30px"}} className=" bg-dark-1 light-content"> 
             <div className="max-w-6xl mx-auto px-4 space-y-6">
               <div>
                 <h3 className="font-semibold text-base">
-                  Mainland Company Formation in UAE
+                About Abu Dhabi Free Zone Company Formation
                 </h3>
                 <p>
-                  Setting up a mainland company in the UAE offers unmatched
-                  business freedom and growth potential. Licensed by the
-                  Department of Economy and Tourism (DET) in Dubai and other
-                  emirates, mainland businesses are allowed to operate across
-                  the UAE and internationally.
-                </p>
-                <p>
-                  With the 2021 reform to the Commercial Companies Law, most
-                  business activities now allow 100% foreign
-                  ownership—eliminating the need for a local sponsor in most
-                  cases. This development has made Dubai mainland company
-                  formation an even more attractive option for investors,
-                  entrepreneurs, and corporations looking to establish a
-                  regional base.
-                </p>
+                  Setting up a company in an Abu Dhabi free zone is one of the
+                  most strategic and investor-friendly ways to establish your
+                  presence in the UAE. Abu Dhabi free zones offer 100% foreign
+                  ownership, tax exemptions, fast-tracked company registration,
+                  and access to global markets—all within a well-regulated and
+                  business-friendly ecosystem. With competitive setup costs, a
+                  broad Abu Dhabi free zone list, and flexible visa options, Abu
+                  Dhabi free zone company formation is ideal for startups, SMEs,
+                  and international businesses seeking long-term growth in the
+                  UAE.
+               </p>
               </div>
 
               <div>
                 <h4 className="font-medium">
-                  Benefits of UAE Mainland Business Setup
+                Why Choose Abu Dhabi Free Zone Company Formation?
                 </h4>
+                <p>
+                  Abu Dhabi free zones are known for their business flexibility,
+                  government support, and strong legal framework. Here’s why
+                  investors prefer company setup in Abu Dhabi free zone
+                  locations:
+                </p>
                 <ul className="list-disc list-inside space-y-1">
                   <li>
-                    <strong>Operate Without Limitations:</strong> Mainland
-                    companies can trade freely anywhere in the UAE without
-                    restrictions, unlike free zone companies.
+                    <strong>100% Foreign Ownership</strong>
+                    <br />
+                    No local sponsor or agent required—retain full control of
+                    your business.
                   </li>
                   <li>
-                    <strong>Access to Government Contracts:</strong> Only
-                    mainland businesses are eligible to bid for lucrative UAE
-                    government projects and tenders.
+                    <strong>Competitive Abu Dhabi Free Zone License Cost</strong>
+                    <br />
+                    The Abu Dhabi free zone license cost starts from
+                    approximately AED 9,000, depending on the activity and visa
+                    package.
                   </li>
                   <li>
-                    <strong>100% Foreign Ownership in Key Sectors:</strong>{" "}
-                    Expats can now fully own their mainland business in most
-                    sectors, thanks to UAE's new business ownership laws.
+                    <strong>Access to a Wide Range of Business Activities</strong>
+                    <br />
+                    Choose from trading, consultancy, logistics,
+                    manufacturing, and more.
                   </li>
                   <li>
-                    <strong>Flexible Business Activities:</strong> Mainland
-                    licenses cover a broad range of commercial, professional,
-                    and industrial activities approved by the DET.
+                    <strong>Simplified Customs Procedures</strong>
                   </li>
                   <li>
-                    <strong>Unlimited Office and Visa Capacity:</strong> The
-                    larger your office space, the more visas you can apply for
-                    under a UAE mainland license.
+                    <strong>Access to International Markets</strong>
                   </li>
                   <li>
-                    <strong>Global and Local Reach:</strong> Mainland businesses
-                    in Dubai enjoy both international access and full
-                    penetration into the local UAE market.
-                  </li>
-                  <li>
-                    <strong>No Currency Restrictions:</strong> There are no
-                    limits on capital repatriation or currency exchange,
-                    promoting free and seamless financial operations.
-                  </li>
-                  <li>
-                    <strong>Attractive Tax Regime:</strong> UAE mainland
-                    businesses benefit from 0% personal income tax and
-                    competitive corporate tax rates. Eligible SMEs and startups
-                    may also enjoy tax exemptions and simplified compliance
-                    under the UAE’s corporate tax framework.
+                    <strong>Eligibility for Abu Dhabi Free Zone Visa</strong>
+                    <br />
+                    For investors and employees.
                   </li>
                 </ul>
               </div>
 
               <div>
                 <h4 className="font-medium">
-                  Cost of Mainland Company Formation in Dubai, UAE
+                  Step-by-Step Process for Business Setup in Abu Dhabi Free Zone
                 </h4>
                 <p>
-                  The cost of forming a mainland company in Dubai typically
-                  ranges from AED 15,000 to AED 50,000, depending on factors
-                  like:
+                  UBIXO streamlines your free zone setup with expert support at
+                  each stage:
                 </p>
-                <ul className="list-disc list-inside space-y-1">
-                  <li>
-                    Business activity and license type (commercial,
-                    professional, or industrial)
-                  </li>
-                  <li>Visa quota required</li>
-                  <li>Office space or Ejari requirements</li>
-                  <li>Additional government approvals (if needed)</li>
-                  <li>Legal documentation and translation needs</li>
-                </ul>
-                <p>
-                  We offer customised packages for startups, SMEs, and
-                  established corporations. To get an exact estimate, consult
-                  our mainland business setup experts.
-                </p>
-              </div>
-
-              <div>
-                <h4 className="font-medium">
-                  Types of Mainland Licenses in Dubai
-                </h4>
-                <p>
-                  There are three primary categories of business licenses for
-                  mainland companies:
-                </p>
-                <ul className="list-disc list-inside space-y-1">
-                  <li>
-                    <strong>Commercial License:</strong> For trading, retail, or
-                    general commercial activities.
-                  </li>
-                  <li>
-                    <strong>Professional License:</strong> For service-oriented
-                    businesses like consultancies, education, healthcare, and
-                    IT.
-                  </li>
-                  <li>
-                    <strong>Industrial License:</strong> For manufacturing,
-                    production, and industrial operations.
-                  </li>
-                </ul>
-                <p>
-                  Each license type comes with its own set of requirements,
-                  approvals, and permitted activities as defined by the DET.
-                </p>
-              </div>
-
-              <div>
-                <h4 className="font-medium">
-                  Step-by-Step Process for Mainland Company Formation in UAE
-                </h4>
                 <ol className="list-decimal list-inside space-y-1">
-                  <li>Determine Your Business Activity</li>
-                  <li>Choose a Legal Structure</li>
-                  <li>Register a Trade Name</li>
-                  <li>Secure Office Space</li>
-                  <li>Get Initial Approval</li>
-                  <li>Submit Documents and Pay Fees</li>
-                  <li>Collect the License</li>
-                  <li>Apply for Visas and Open a Bank Account</li>
+                  <li>
+                    Select a Free Zone
+                    <br />
+                    Choose based on your business activity and specific
+                    advantages offered (e.g., KIZAD for industrial, Twofour54
+                    for media).
+                  </li>
+                  <li>
+                    Determine Your Business Activity
+                    <br />
+                    Ensure your chosen activity is permitted within the selected
+                    free zone.
+                  </li>
+                  <li>
+                    Register Your Company Name
+                    <br />
+                    Submit your proposed company name for approval.
+                  </li>
+                  <li>
+                    Apply for Your License
+                    <br />
+                    Select the appropriate license type (commercial, professional,
+                    industrial).
+                  </li>
+                  <li>
+                    Lease Office Space
+                    <br />
+                    Choose from various options like virtual offices, shared
+                    desks, or dedicated offices.
+                  </li>
+                  <li>
+                    Submit Required Documents
+                    <br />
+                    Provide necessary documents for registration and licensing.
+                  </li>
+                  <li>
+                    Obtain Your Trade License
+                    <br />
+                    Receive your official Abu Dhabi free zone trade license.
+                  </li>
+                  <li>
+                    Process Visas
+                    <br />
+                    Apply for investor and employee visas as needed.
+                  </li>
+                  <li>
+                    Open a Corporate Bank Account
+                    <br />
+                    Set up your business bank account in the UAE.
+                  </li>
                 </ol>
               </div>
 
               <div>
                 <h4 className="font-medium">
-                  Documents Required for Mainland Company Formation in the UAE
+                  Types of Free Zone Licenses in Abu Dhabi
                 </h4>
                 <p>
-                  To register a mainland company in Dubai or anywhere in the
-                  UAE, you’ll need to submit specific documents to the
-                  Department of Economy and Tourism (DET) and other authorities.
-                  Here’s a general list:
-                </p>
-
-                <p>
-                  <strong>For Individual Shareholders:</strong>
+                  Abu Dhabi free zones offer various licenses to suit different
+                  business needs:
                 </p>
                 <ul className="list-disc list-inside space-y-1">
-                  <li>Passport copy of all shareholders</li>
-                  <li>UAE entry stamp or visa copy (if applicable)</li>
-                  <li>Passport-sized photographs (white background)</li>
-                  <li>Emirates ID copy (for residents)</li>
                   <li>
-                    NOC from current sponsor (if UAE resident and employed)
+                    <strong>Commercial License</strong>
+                    <br />
+                    For trading, import/export, and other commercial activities.
+                  </li>
+                  <li>
+                    <strong>Professional License</strong>
+                    <br />
+                    For service-based businesses, consultancies, and individual
+                    practitioners.
+                  </li>
+                  <li>
+                    <strong>Industrial License</strong>
+                    <br />
+                    For manufacturing, processing, and related industrial
+                    activities.
                   </li>
                 </ul>
-
                 <p>
-                  <strong>For Corporate Shareholders:</strong>
-                </p>
-                <ul className="list-disc list-inside space-y-1">
-                  <li>Certificate of incorporation</li>
-                  <li>Memorandum & Articles of Association (MOA/AOA)</li>
-                  <li>Board resolution to establish the new company</li>
-                  <li>
-                    Power of Attorney (POA) in favour of a legal representative
-                  </li>
-                  <li>Trade license copy (if applicable)</li>
-                </ul>
-
-                <p>
-                  <strong>General Business Setup Documents:</strong>
-                </p>
-                <ul className="list-disc list-inside space-y-1">
-                  <li>Proposed trade name approval</li>
-                  <li>Initial approval certificate from DET</li>
-                  <li>Tenancy contract (Ejari) for office space</li>
-                  <li>MOA/LSA Agreement (if required by business type)</li>
-                  <li>
-                    Additional approvals (e.g. from Dubai Municipality, DHA,
-                    MOHRE, etc.) depending on activity
-                  </li>
-                </ul>
-
-                <p>
-                  <strong>Note:</strong> Document requirements can vary
-                  depending on your business activity and legal structure.
-                  Always consult our experts at UBIXO to get a checklist
-                  tailored to your setup.
+                  UBIXO helps you identify the right license for your business
+                  model.
                 </p>
               </div>
 
               <div>
                 <h4 className="font-medium">
-                  Ready to Launch Your UAE Mainland Business?
+                Legal Entity Options
                 </h4>
                 <p>
-                  Start your journey to business success in Dubai or anywhere in
-                  the UAE. Let UBIXO handle the legalities while you focus on
-                  growth.
+                You can register your business in Abu Dhabi free zones under the following structures:
+                </p>
+                <ul className="list-disc list-inside space-y-1">
+                  <li><strong>Free Zone Company (FZC)</strong> — Single or multiple shareholders</li>
+                  <li><strong>Free Zone Establishment (FZE)</strong> — Sole owner structure</li>
+                  <li><strong>Branch Office</strong> — For expanding existing businesses</li>
+                  <li><strong>Freelance Permit</strong> — For independent professionals</li>
+                </ul>
+                <p>
+                  UBIXO ensures that your chosen legal structure complies with the respective free zone regulations.
+                </p>
+              </div>
+
+              <div>
+                <h4 className="font-medium">
+                Required Documents for Abu Dhabi Free Zone Company Formation
+                </h4>
+                <p>
+                    Prepare the following documents:
+                </p>
+                <ul className="list-disc list-inside space-y-1">
+                <li>Passport copy of shareholders</li>
+                <li>Passport-sized photo</li>
+                <li>Entry stamp or residence visa copy</li>
+                <li>Trade name reservation</li>
+                <li>Application form</li>
+                <li>Lease agreement (if office space is selected)</li>
+                <li>Emirates ID and medical test (for visa holders)</li>
+                </ul>
+                <p>
+                UBIXO takes care of documentation, attestation, and all government interactions.
+                </p>
+              </div>
+              <div>
+                  <h4 className="font-medium">
+                  Abu Dhabi Free Zone License Cost
+                </h4>
+                <p>
+                Starting from <strong>AED 9,000</strong>, the total Abu Dhabi free zone business setup cost depends on your chosen license type, visa requirements, and office space selection. UBIXO offers tailored packages with complete transparency and no hidden fees.
+                </p>
+                <ul className="list-disc list-inside space-y-1">
+                <li>Business activity</li>
+                <li>Type of license (commercial, service, industrial)</li>
+                <li>Number of visas required</li>
+                <li>Office or facility selection</li>
+                </ul>
+                <p>
+                Abu Dhabi free zone visa costs typically range from AED 3,000 to AED 5,000 per visa. UBIXO provides a full-cost breakdown with no hidden fees.
+                </p>
+              </div>
+              <div>
+                <h4 className="font-medium">
+                Common Business Activities in Abu Dhabi Free Zones
+                </h4>
+                <p>
+                Popular sectors include:
+                </p>
+                <ul className="list-disc list-inside space-y-1">
+                <li>Consultancy and Professional Services</li>
+                <li>Trading and E-commerce</li>
+                <li>Media and Digital Marketing</li>
+                <li>Education and Training</li>
+                <li>Logistics and Warehousing</li>
+                <li>Healthcare and Wellness</li>
+                <li>Information Technology</li>
+                <li>Clean Energy and Sustainability</li>
+                </ul>
+                <p>
+                UBIXO aligns your chosen activity with the appropriate license and legal entity.
+                </p>
+              </div>
+              <div className="col-md-6">
+              <h4 className="font-medium"> Key Requirements for Setting Up a Company in Abu Dhabi Free Zone</h4>
+                <p>
+                To start your business, you must:
+                </p>
+                <ul>
+                <li>Define your business activity</li>
+                <li>Choose a legal structure</li>
+                <li>Select a trade name</li>
+                <li>Submit the required documents</li>
+                <li>Choose and secure office/facility space</li>
+                <li>Apply for your free zone license</li>
+                <li>Process visas and immigration documents</li>
+                </ul>
+                <p>
+                UBIXO handles every step to ensure a fast, compliant, and stress-free setup experience.
+                </p>
+              </div>
+              <div className="col-md-6">
+              <h4 className="font-medium">Start Your Abu Dhabi Free Zone Company with UBIXO</h4>
+                <p>
+                With over 3,000+ clients, UBIXO is your trusted partner for company setup in Abu Dhabi free zone locations. We provide:
+                </p>
+                <ul>
+                  <li>Quick and compliant company formation</li>
+                  <li>Trade name registration and license issuance</li>
+                  <li>PRO services and visa processing</li>
+                  <li>Bank account setup with major UAE banks</li>
+                  <li>Transparent pricing and end-to-end support</li>
+                </ul>
+                <p>
+                Launch your business in Abu Dhabi free zones—efficiently and confidently with UBIXO.
                 </p>
                 <p className="mb-0">
                   Call us today or{" "}
                   <a href="#contact" className="underline text-blue-600">
                     Contact Us
                   </a>{" "}
-                  to get your mainland license with confidence and clarity.
+                  to get your freezone license with confidence and clarity.
                 </p>
               </div>
             </div>
@@ -491,6 +566,7 @@ export default async function StrongPortfolioSinglePage(props) {
           <footer className="footer-1 bg-dark-1 light-content">
             <Footer9 />
           </footer>
+
         </div>
       </div>{" "}
     </>
