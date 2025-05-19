@@ -44,7 +44,7 @@ export default async function StrongPortfolioSinglePage(props) {
                         text={"Freezone"}
                       /> 
                       <span className="font-alt">
-                        <AnimatedText text={"UAE"} />
+                        <AnimatedText text={"Abu Dhabi"} />
                       </span>
                     </span>
                   </h1>

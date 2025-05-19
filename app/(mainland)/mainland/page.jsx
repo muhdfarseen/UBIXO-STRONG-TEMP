@@ -91,8 +91,8 @@ export default function StrongPortfolioPage() {
                   <div className="row">
                     <div className="col-lg-6 mb-md-40 mb-sm-30">
                       <h2 className="section-title-strong mt-n20 mb-40 mb-sm-30">
-                        Creativity meets{" "}
-                        <span className="font-alt">technology</span> here
+                      Ambitions meet{" "}
+                        <span className="font-alt">expertise</span> here
                       </h2>
                       <div className="local-scroll">
                         <Link
@@ -105,13 +105,7 @@ export default function StrongPortfolioPage() {
                     </div>
                     <div className="col-lg-6">
                       <p className="mb-40 mb-sm-30">
-                        Suspendisse pellentesque mi non ipsum finibus
-                        vestibulum. Vestibulum posuere magna auctor malesuada
-                        scelerisque. Sed sed sem id magna congue interdum et sit
-                        amet leo. Praesent sit amet ipsum orci. Fusce faucibus
-                        nibh at quam facilisis venenatis posuere non quis lacus.
-                        Quisque massa lectus, tincidunt non sem non, placerat
-                        bibendum nibh.
+                      Launching a company in the UAE can feel like navigating a maze of licenses, approvals and paperwork. At Ubixo, we simplify every step—from choosing the ideal jurisdiction to securing your Golden Visa—so you can focus on what matters most: growing your business. Our hands-on approach, clear timelines and deep local know-how mean your venture gets built on a foundation of trust and efficiency.
                       </p>
                       {/* Features List */}
                       <div className="row mt-n20">
@@ -121,7 +115,7 @@ export default function StrongPortfolioPage() {
                             <i className="mi-check" />
                           </div>
                           <div className="features-list-text">
-                            Agency Website
+                          Mainland LLC formation
                           </div>
                         </div>
                         {/* End Features List Item */}
@@ -131,7 +125,7 @@ export default function StrongPortfolioPage() {
                             <i className="mi-check" />
                           </div>
                           <div className="features-list-text">
-                            Personal Website
+                          Freezone company setup
                           </div>
                         </div>
                         {/* End Features List Item */}
@@ -140,7 +134,7 @@ export default function StrongPortfolioPage() {
                           <div className="features-list-icon">
                             <i className="mi-check" />
                           </div>
-                          <div className="features-list-text">Landing Page</div>
+                          <div className="features-list-text">PRO services & visa processing</div>
                         </div>
                         {/* End Features List Item */}
                         {/* Features List Item */}
@@ -149,7 +143,7 @@ export default function StrongPortfolioPage() {
                             <i className="mi-check" />
                           </div>
                           <div className="features-list-text">
-                            Portfolio and Gallery
+                          Golden Visa consultancy
                           </div>
                         </div>
                         {/* End Features List Item */}
