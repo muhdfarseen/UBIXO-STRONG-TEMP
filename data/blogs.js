@@ -35,7 +35,7 @@ export const blogs2 = [
   {
     id: 4,
     imgSrc: "/assets/images/demo-modern/blog/1.jpg",
-    title: "Natura Insects Series: Crafting Insects Made by Flowers",
+    title: "18 Common Mistakes to Avoid When Starting a Business in the UAE",
     date: "December 3, 2023",
     rellaxSpeed: -1,
     rellaxPercentage: 0.37,
