@@ -82,416 +82,333 @@ export default async function StrongBlogSinglePage(props) {
                   <div className="row">
                     <div className="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
                       <div className="blog-item mb-80 mb-xs-40">
-                        {/* Section: Introduction to UAE Business Environment */}
+                        
                         <div className="row mb-sm-20">
-                          <h2 className="h3 font-alt mb-20">
-                            The UAE continues to be one of the most attractive destinations in
-                            the Middle East for entrepreneurs and investors. Thanks to its
-                            business-friendly environment, zero-tax policies, strategic
-                            location, and robust infrastructure, the country offers unmatched
-                            opportunities across various sectors.
-                          </h2>
-                          <p className="mb-0">
-                            When starting a business in the UAE, one of the most common
-                            questions is: <br />
-                          </p>
+                        <h2 className="h3 font-alt mb-20">
+                          Opening a corporate bank account in the UAE is an essential step for businesses aiming to operate successfully in the region. The UAE's banking system is known for its security, international accessibility, and modern digital infrastructure. Whether you're forming a mainland company, a free zone entity, or an offshore setup, having a corporate bank account ensures smooth financial transactions and compliance with local regulations.
+                        </h2>
+                        <p className="mb-0">
+                          In this guide, we’ll walk you through the step-by-step process, requirements, types of accounts, challenges, and tips to successfully open a corporate bank account in the UAE.
+                        </p>
+                      </div>
+                      <br />
+                        <hr className="my-6" />
+                        <br />
+                        <div>
+                          <h3 className="font-semibold text-base mb-10">Why Open a Corporate Bank Account in the UAE?</h3>
+                          <ul className="list-disc list-inside">
+                            <li>Professional credibility for clients and suppliers</li>
+                            <li>Legal requirement for company formation</li>
+                            <li>Easy access to international transactions</li>
+                            <li>Accept and manage multiple currencies</li>
+                            <li>Access to business loans, credit cards, and overdraft facilities</li>
+                          </ul>
                         </div>
-
-                        <div className="blog-item-body">
-                          {/* Section: Choosing Between Free Zone or Mainland Company */}
-                          <h3 className="font-semibold text-base">
-                            Should I Choose a Free Zone or a Mainland Company?
+                        <br />
+                        <hr className="my-6" />
+                        <br />
+                        <div >
+                          <h3 className="font-semibold text-base mb-10">
+                            Documents Required to Open a Corporate Bank Account in the UAE
                           </h3>
-                          <p>
-                            At <strong>UBIXO</strong>, we understand that choosing between a
-                            Mainland or Free Zone company is a critical decision that affects
-                            your business's legal obligations, ownership structure,
-                            operational freedom, and growth potential. This guide will walk
-                            you through the key differences, advantages, and considerations
-                            for each option.
+                          <p className="mb-4">
+                            Different banks may ask for slightly different documents, but here are the standard requirements:
                           </p>
 
-                          <hr className="my-6" />
-
-                          {/* Subsection: What Is a Mainland Company in the UAE? */}
-                          <h3 className="font-semibold text-base">What Is a Mainland Company in the UAE?</h3>
-                          <p>
-                            A Mainland company (also known as an onshore company) is licensed
-                            by the Department of Economic Development (DED) in the respective
-                            emirate. These companies are permitted to operate across the
-                            entire UAE and engage in international business without
-                            restriction.
-                          </p>
-                          <strong>Key Features:</strong>
-                          <ul>
-                            <li>Can conduct business anywhere in the UAE and internationally</li>
-                            <li>Eligible to bid for UAE government contracts and projects</li>
-                            <li>Can open multiple branches throughout the UAE</li>
-                            <li>Subject to UAE commercial and labor laws</li>
-                            <li>
-                              Allows 100% foreign ownership for most business activities
-                              (post-2020 reforms, no local sponsor required in many cases)
-                            </li>
+                          <h4 className="font-semibold text-sm mb-2">Company Documents:</h4>
+                          <ul className="list-disc list-inside mb-4">
+                            <li>Trade license copy</li>
+                            <li>Certificate of incorporation</li>
+                            <li>Memorandum and Articles of Association (MOA/AOA)</li>
+                            <li>Share Certificate</li>
+                            <li>Company profile and business plan</li>
+                            <li>Office tenancy contract (Ejari for mainland)</li>
                           </ul>
 
-                          <hr className="my-6" />
-
-                          {/* Subsection: What Is a Free Zone Company? */}
-                          <h3 className="font-semibold text-base">What Is a Free Zone Company?</h3>
-                          <p>
-                            A Free Zone company operates within a designated economic zone
-                            that has its own regulatory framework and authority. These zones
-                            are ideal for entrepreneurs and SMEs seeking full ownership,
-                            simplified business setup, and tax advantages.
-                          </p>
-                          <p>
-                            The UAE has over 45 Free Zones catering to specific industries
-                            such as technology, media, education, healthcare, finance,
-                            logistics, and more.
-                          </p>
-                          <strong>Key Features:</strong>
-                          <ul>
-                            <li>100% foreign ownership from the start</li>
-                            <li>
-                              Perfect for import/export, consulting, and digital/e-commerce
-                              ventures
-                            </li>
-                            <li>Zero personal income tax and corporate tax (up to applicable
-                              thresholds)</li>
-                            <li>
-                              Simplified licensing, visa issuance, and business setup
-                              procedures
-                            </li>
-                            <li>
-                              Not allowed to conduct direct business within the UAE mainland
-                              without a local distributor or agent
-                            </li>
+                          <h4 className="font-semibold text-sm mb-2">Personal Documents of Shareholders/Directors:</h4>
+                          <ul className="list-disc list-inside">
+                            <li>Passport copies</li>
+                            <li>UAE residence visa (if applicable)</li>
+                            <li>Emirates ID (for residents)</li>
+                            <li>Utility bill or address proof</li>
+                            <li>Bank reference letter or 6-month personal bank statement</li>
                           </ul>
-
-                          <hr className="my-6" />
-
-                          {/* Section: Free Zone vs. Mainland: A Full Comparison Table */}
-                          <h3 className="font-semibold text-base">
-                            Free Zone vs. Mainland: A Full Comparison Table
+                        </div>
+                        <br />
+                        <hr className="my-6" />
+                        <br />
+                        <div>
+                          <h3 className="font-semibold text-base mb-4">
+                            Types of Corporate Bank Accounts in the UAE
                           </h3>
-                          <div className="table-responsive">
-                            <table className="table table-bordered">
-                              <thead>
+                          <div className="overflow-x-auto">
+                            <table className="table-auto border-collapse border border-gray-300 w-full text-sm">
+                              <thead className="bg-gray-100">
                                 <tr>
-                                  <th>Feature</th>
-                                  <th>Mainland Company</th>
-                                  <th>Free Zone Company</th>
+                                  <th className="border border-gray-300 px-4 py-2 text-left">Type</th>
+                                  <th className="border border-gray-300 px-4 py-2 text-left">Bank Account Eligibility</th>
                                 </tr>
                               </thead>
                               <tbody>
                                 <tr>
-                                  <td>
-                                    <strong>Ownership</strong>
-                                  </td>
-                                  <td>Up to 100% foreign ownership (for most activities)</td>
-                                  <td>100% foreign ownership from day one</td>
+                                  <td className="border border-gray-300 px-4 py-2 font-medium">Mainland Company</td>
+                                  <td className="border border-gray-300 px-4 py-2">Can open accounts in most local & international banks</td>
+                                </tr>
+                                <tr className="bg-gray-50">
+                                  <td className="border border-gray-300 px-4 py-2 font-medium">Free Zone Company</td>
+                                  <td className="border border-gray-300 px-4 py-2">Limited banks; subject to approval and business type</td>
                                 </tr>
                                 <tr>
-                                  <td>
-                                    <strong>Scope of Business</strong>
-                                  </td>
-                                  <td>Can operate anywhere in the UAE and globally</td>
-                                  <td>Can operate inside Free Zone and internationally</td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Government Projects</strong>
-                                  </td>
-                                  <td>Eligible to bid for UAE government contracts</td>
-                                  <td>Not eligible for public or government tenders</td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Office Requirement</strong>
-                                  </td>
-                                  <td>Mandatory physical office (min. 200 sq. ft.)</td>
-                                  <td>Virtual/flexi-desk offices allowed in many zones</td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Visa Eligibility</strong>
-                                  </td>
-                                  <td>No limit (based on office size and approvals)</td>
-                                  <td>Limited (typically 1–6 visas depending on package)</td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Taxation</strong>
-                                  </td>
-                                  <td>
-                                    0% personal income tax, 9% corporate tax above AED 375,000
-                                  </td>
-                                  <td>
-                                    0% personal tax; corporate tax may vary or be exempt based
-                                    on Free Zone
-                                  </td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Audit Requirement</strong>
-                                  </td>
-                                  <td>Annual audit mandatory</td>
-                                  <td>Varies by Free Zone (some don't require audits)</td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Customs Duty</strong>
-                                  </td>
-                                  <td>Customs duty applies (standard UAE rate: 5%)</td>
-                                  <td>
-                                    Usually exempt from import/export duties within Free Zone
-                                  </td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Public Directory Listing</strong>
-                                  </td>
-                                  <td>Yes (company details publicly listed)</td>
-                                  <td>No (shareholder details are kept private)</td>
+                                  <td className="border border-gray-300 px-4 py-2 font-medium">Offshore Company</td>
+                                  <td className="border border-gray-300 px-4 py-2">Mostly international transactions; limited local access</td>
                                 </tr>
                               </tbody>
                             </table>
                           </div>
-
-                          <hr className="my-6" />
-
-                          {/* Section: Common Questions & FAQ */}
-                          <div className="w-[90%] md:w-[70%]">
-                            <h3 className="font-semibold text-base">
-                              Common Questions Business Owners Ask – Answered by UBIXO
-                            </h3>
-                            <div className="space-y-6">
-                              {[
-                                {
-                                  q: "Can I do business in the mainland with a Free Zone license?",
-                                  a: "Not directly. You need to appoint a local distributor or commercial agent to legally offer goods or services in the mainland from a free zone.",
-                                },
-                                {
-                                  q: "Can I own 100% of my mainland company?",
-                                  a: "Yes, thanks to the UAE's new Foreign Ownership Law, 100% foreign ownership is allowed for most business activities. However, a few activities still require a local Emirati partner.",
-                                },
-                                {
-                                  q: "Which is cheaper – Free Zone or Mainland?",
-                                  a: "Generally, Free Zone setups are cheaper in terms of license costs, office space, and setup fees. However, they may have a limited business scope. A mainland setup can be costlier initially but offers broader market access.",
-                                },
-                                {
-                                  q: "Can I open a bank account in the UAE with both licenses?",
-                                  a: "Yes, both mainland and free zone companies are eligible to open corporate bank accounts in the UAE. Free zone companies may be asked for more documentation.",
-                                },
-                                {
-                                  q: "Which is better for e-commerce?",
-                                  a: "Free zones like Dubai CommerCity, RAKEZ, and Sharjah Media City (Shams) offer tailored packages for e-commerce businesses with lower fees and faster approvals.",
-                                },
-                              ].map((faq, index) => (
-                                <details
-                                  key={index}
-                                  className="border rounded-lg p-4 group open:shadow-md transition-all"
-                                >
-                                  <summary className="font-medium cursor-pointer text-lg text-gray-800 group-open:font-semibold">
-                                    {faq.q}
-                                  </summary>
-                                  <p className="mt-2 text-gray-600">{faq.a}</p>
-                                </details>
-                              ))}
-                            </div>
-                          </div>
-
-                          <hr className="my-6" />
-
-                          {/* Section: Advantages of Each Company Type */}
-                          <h3 className="font-semibold text-base">
-                            Advantages of Setting Up a Mainland Company
+                        </div>
+                        <br />
+                        <hr className="my-6" />
+                        <br />
+                        <div>
+                          <h3 className="font-semibold text-base mb-10">
+                            Step-by-Step Process to Open a Corporate Bank Account in the UAE
                           </h3>
-                          <ul>
-                            <li>Operate anywhere in the UAE without restrictions</li>
-                            <li>Ability to take on government and private sector contracts</li>
-                            <li>No limits on the number of visas (based on office size)</li>
-                            <li>Better chances of opening bank accounts and getting funding</li>
-                            <li>Freedom to rent office space anywhere in the emirate</li>
-                            <li>Strong reputation with local companies</li>
-                          </ul>
 
-                          <h3 className="font-semibold text-base">
-                            Advantages of Setting Up a Free Zone Company
-                          </h3>
-                          <ul>
-                            <li>Full foreign ownership with zero local sponsor requirements</li>
-                            <li>Lower startup and operational costs</li>
-                            <li>Access to modern infrastructure and coworking spaces</li>
-                            <li>100% repatriation of profits and capital</li>
-                            <li>No customs duties within the free zone</li>
-                            <li>Faster company setup with minimal paperwork</li>
-                            <li>Support services like legal, admin, HR within the zone</li>
-                          </ul>
-
-                          <hr className="my-6" />
-
-                          {/* Section: Important Considerations Before Deciding */}
-                          <h3 className="font-semibold text-base">Things to Keep in Mind – Before You Decide</h3>
-                          <p>
-                            Every business structure comes with its own unique requirements.
-                            While both Free Zone and Mainland companies offer numerous
-                            benefits, it’s helpful to be aware of a few practical
-                            considerations so you can plan accordingly.
-                          </p>
-
-                          <h5 className="font-semibold mt-4">For Mainland Companies:</h5>
-                          <ul>
+                          <ol className="list-decimal list-inside space-y-6">
                             <li>
-                              <strong>Office Space Is a Must:</strong> To operate as a
-                              mainland company, you are required to lease a physical office
-                              (minimum 200 sqft). This adds to your operational footprint –
-                              but also enhances your local presence and credibility among UAE
-                              clients.
+                              <strong>Register Your Business in the UAE</strong><br />
+                              Before approaching any bank, your business must be officially registered in the UAE. This can be:
+                              <ul className="list-disc list-inside mt-2 mb-2 ml-4">
+                                <li>Mainland Company – Registered with the Department of Economic Development (DED)</li>
+                                <li>Free Zone Company – Registered within a specific free zone (e.g., DMCC, IFZA, RAKEZ)</li>
+                                <li>Offshore Company – For international operations, limited access to UAE banking</li>
+                              </ul>
+                              Banks will require a valid trade license and corporate documents.
                             </li>
-                            <li>
-                              <strong>More Government Interactions:</strong> Since mainland
-                              businesses must register with various departments (DED,
-                              Municipality, Labour Ministry, etc.), the setup involves more
-                              paperwork. With UBIXO handling it all on your behalf, you can
-                              focus on your business without delays.
-                            </li>
-                            <li>
-                              <strong>Annual Financial Audit:</strong> Mainland companies
-                              must conduct a yearly financial audit. This ensures
-                              transparency and positions your company strongly when applying
-                              for loans, investors, or government contracts.
-                            </li>
-                          </ul>
 
-                          <h5 className="font-semibold mt-4">For FreeZone Companies:</h5>
-                          <ul>
                             <li>
-                              <strong>Trade Within UAE Requires a Local Agent:</strong> Free
-                              zone companies can’t directly trade in the UAE mainland. But
-                              this also helps maintain focus on global markets and e-commerce,
-                              which are fast-growing sectors in the region.
+                              <strong>Choose the Right Bank for Your Business</strong><br />
+                              Different banks in the UAE serve different business categories. When choosing a bank, consider:
+                              <ul className="list-disc list-inside mt-2 mb-2 ml-4">
+                                <li>Your business activity (some are deemed high-risk)</li>
+                                <li>Nationality of shareholders</li>
+                                <li>Required minimum balance (ranges from AED 25,000 to AED 500,000)</li>
+                                <li>Preferred banking features (online banking, currency types, chequebook)</li>
+                              </ul>
+                              <strong>Popular UAE Banks:</strong>
+                              <ul className="list-disc list-inside ml-4">
+                                <li>Emirates NBD</li>
+                                <li>First Abu Dhabi Bank (FAB)</li>
+                                <li>Mashreq</li>
+                                <li>RAKBANK</li>
+                                <li>HSBC UAE</li>
+                                <li>Standard Chartered</li>
+                              </ul>
                             </li>
+
                             <li>
-                              <strong>Visa Allocation Is Capped:</strong> Each free zone
-                              offers a set number of visa slots depending on your package. If
-                              your team grows, you can always upgrade to a larger space or
-                              additional visa quota — something UBIXO can easily assist with.
+                              <strong>Gather and Organise All Required Documents</strong><br />
+                              Banks perform strict due diligence. Providing a complete, well-organised document set increases your chances of approval.
+                              <h4 className="font-semibold mt-3 mb-1">Company Documents:</h4>
+                              <ul className="list-disc list-inside ml-4 mb-2">
+                                <li>Trade license</li>
+                                <li>Certificate of incorporation</li>
+                                <li>MOA & AOA</li>
+                                <li>Shareholders’ register</li>
+                                <li>Lease agreement or Ejari certificate</li>
+                                <li>Business plan with financial projections</li>
+                                <li>Company profile detailing services and clients</li>
+                              </ul>
+                              <h4 className="font-semibold mb-1">Shareholder/Director Documents:</h4>
+                              <ul className="list-disc list-inside ml-4">
+                                <li>Passport copies</li>
+                                <li>Emirates ID and residency visa (if applicable)</li>
+                                <li>Utility bill (as address proof)</li>
+                                <li>Personal bank statements (last 6 months)</li>
+                                <li>CV or work history for key personnel</li>
+                                <li>Reference letter from your personal bank</li>
+                              </ul>
+                              <p className="mt-2">
+                                Translations and attestations may be required depending on the nationality or issuing country.
+                              </p>
                             </li>
+
                             <li>
-                              <strong>Limited Public Visibility:</strong> Free zone companies
-                              are not listed in public directories. While this protects
-                              privacy, it may require additional marketing to establish brand
-                              recognition locally.
+                              <strong>Meet with a Bank Relationship Manager</strong><br />
+                              Once documentation is ready, schedule a meeting with a bank’s relationship officer. This step involves:
+                              <ul className="list-disc list-inside mt-2">
+                                <li>Discussing your business model</li>
+                                <li>Presenting your documents</li>
+                                <li>Answering KYC (Know Your Customer) questions</li>
+                                <li>Clarifying the source of funds and expected monthly volume</li>
+                              </ul>
+                              This is a crucial step—banks assess your risk profile during this stage.
                             </li>
-                          </ul>
 
-                          <hr className="my-6" />
-
-                          {/* Section: How UBIXO Helps You Make the Right Choice */}
-                          <h3 className="font-semibold text-base">
-                            How UBIXO Helps You Make the Right Choice
-                          </h3>
-                          <p>
-                            At <strong>UBIXO</strong>, we don’t just guide you through
-                            setting up your business — we help you strategically choose the
-                            best jurisdiction based on your goals, industry, and budget.
-                          </p>
-                          <p>Our consultants will:</p>
-                          <ul>
-                            <li>Help you compare and evaluate free zone vs. mainland</li>
-                            <li>Identify if your activity qualifies for 100% foreign
-                              ownership</li>
-                            <li>Assist with name reservation, initial approval, legal
-                              drafting</li>
-                            <li>Find cost-effective office space (physical or virtual)</li>
-                            <li>Handle visa applications, labour cards, and immigration</li>
                             <li>
-                              Offer post-setup services like VAT registration, accounting, PRO
-                              services, and more
+                              <strong>Submit the Application for Review</strong><br />
+                              After the initial consultation, the bank forwards your application to its compliance and risk management departments:
+                              <ul className="list-disc list-inside mt-2">
+                                <li>AML (Anti-Money Laundering) compliance check</li>
+                                <li>Sanctions check</li>
+                                <li>Due diligence on shareholders and company activities</li>
+                                <li>Verification of ultimate beneficial owner (UBO)</li>
+                              </ul>
+                              This stage can take anywhere between 7 and 20 working days, depending on the complexity of your case.
                             </li>
-                          </ul>
 
-                          <hr className="my-6" />
+                            <li>
+                              <strong>Receive Bank Account Approval & Details</strong><br />
+                              Upon approval, you will receive:
+                              <ul className="list-disc list-inside mt-2">
+                                <li>Corporate account number</li>
+                                <li>Online banking access</li>
+                                <li>Debit card/chequebook (if applicable)</li>
+                                <li>IBAN (International Bank Account Number)</li>
+                              </ul>
+                              Some banks may issue a conditional approval pending fund deposit or further documentation.
+                            </li>
 
-                          {/* Section: Key Takeaways Table */}
+                            <li>
+                              <strong>Activate and Fund Your Account</strong><br />
+                              Once the account is active:
+                              <ul className="list-disc list-inside mt-2">
+                                <li>Deposit the required minimum balance</li>
+                                <li>Link your account to company billing systems</li>
+                                <li>Start transactions via online portals or mobile apps</li>
+                              </ul>
+                            </li>
+                          </ol>
+                        </div>
+                        <br />
+                        <hr className="my-6" />
+                        <br />
+                        <div >
                           <h3 className="font-semibold text-base mb-4">
-                            Choosing Between Mainland and Free Zone – Key Takeaways
+                            Tips to Get Corporate Bank Account Approved Faster
                           </h3>
-                          <table className="table table-bordered">
-                            <thead>
-                              <tr>
-                                <th>Consideration</th>
-                                <th>Go for Mainland if…</th>
-                                <th>Choose Free Zone if…</th>
-                              </tr>
-                            </thead>
-                            <tbody>
-                              <tr>
-                                <td>Business Reach</td>
-                                <td>You want to serve the UAE market directly</td>
-                                <td>You only want to operate internationally</td>
-                              </tr>
-                              <tr>
-                                <td>Ownership</td>
-                                <td>You're eligible for 100% ownership</td>
-                                <td>You want 100% ownership with zero restrictions</td>
-                              </tr>
-                              <tr>
-                                <td>Budget</td>
-                                <td>You have a moderate to high startup fund</td>
-                                <td>You're bootstrapping or want low setup costs</td>
-                              </tr>
-                              <tr>
-                                <td>Industry</td>
-                                <td>You want to work in regulated sectors</td>
-                                <td>You’re into trading, services, consulting, etc.</td>
-                              </tr>
-                              <tr>
-                                <td>Speed of Setup</td>
-                                <td>You’re okay with more paperwork</td>
-                                <td>You want a fast-tracked setup</td>
-                              </tr>
-                            </tbody>
-                          </table>
-
-                          <hr className="my-6" />
-
-                          {/* Section: Call to Action */}
-                          <h3 className="font-semibold text-base">
-                            Let UBIXO Make Your Business Launch Smooth & Successful
+                          <ul className="list-disc list-inside space-y-2">
+                            <li>Maintain a physical office (especially for mainland companies)</li>
+                            <li>Choose a low-risk business activity</li>
+                            <li>Prepare a clear business plan</li>
+                            <li>Provide personal bank statements and proof of income</li>
+                            <li>Have a good credit history (especially for residents)</li>
+                          </ul>
+                        </div>
+                        <br />
+                        <hr className="my-6" />
+                        <br />
+                        <div>
+                          <h3 className="font-semibold text-base mb-4">
+                            Common Challenges in Corporate Bank Account Opening
                           </h3>
-                          <p>
-                            With thousands of successful company formations in the UAE,{" "}
-                            <strong>UBIXO</strong> is your trusted partner for seamless
-                            business setup. We ensure your business is registered efficiently,
-                            legally, and cost-effectively — with transparent pricing and
-                            expert advice.
-                          </p>
-                          <p>
-                            From initial consultation to complete documentation and ongoing
-                            support, UBIXO handles it all. Whether you’re a solo entrepreneur,
-                            SME, or a multinational expanding into the UAE, we’ve got your
-                            back.
-                          </p>
-
-                          <hr className="my-6" />
-
-                          <h3 className="font-semibold text-base mt-6">
-                            Book a FREE Consultation Today
+                          <div className="overflow-x-auto">
+                            <table className="table-auto border-collapse border border-gray-300 w-full text-sm">
+                              <thead className="bg-gray-100">
+                                <tr>
+                                  <th className="border border-gray-300 px-4 py-2 text-left">Challenge</th>
+                                  <th className="border border-gray-300 px-4 py-2 text-left">Solution</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td className="border border-gray-300 px-4 py-2 font-medium">High-risk business activity</td>
+                                  <td className="border border-gray-300 px-4 py-2">Choose a bank that supports your niche</td>
+                                </tr>
+                                <tr className="bg-gray-50">
+                                  <td className="border border-gray-300 px-4 py-2 font-medium">Offshore setup with no UAE presence</td>
+                                  <td className="border border-gray-300 px-4 py-2">Work with international banks or payment gateways</td>
+                                </tr>
+                                <tr>
+                                  <td className="border border-gray-300 px-4 py-2 font-medium">Non-resident shareholders</td>
+                                  <td className="border border-gray-300 px-4 py-2">Partner with a local sponsor or free zone with leniency</td>
+                                </tr>
+                                <tr className="bg-gray-50">
+                                  <td className="border border-gray-300 px-4 py-2 font-medium">Missing documents</td>
+                                  <td className="border border-gray-300 px-4 py-2">Ensure complete document set before applying</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+                        <br />
+                        <hr className="my-6" />
+                        <br />
+                        <div >
+                          <h3 className="font-semibold text-base mb-4">
+                            Cost of Opening a Corporate Bank Account in UAE
                           </h3>
                           <p>
-                            Let’s discuss your business plan and find the right setup
-                            strategy — Free Zone or Mainland — tailored just for you.<br />
+                            Most UAE banks do not charge account opening fees but require:
                           </p>
-                          <p className="mb-0">
-                            📞{" "}
-                            <a href="#contact" className="underline text-blue-600">
-                              Contact Us
-                            </a>{" "}
-                            today to turn your business idea into a reality in Dubai.{" "}
+                          <ul className="list-disc list-inside space-y-2 mt-2">
+                            <li>Minimum balance: AED 25,000 – AED 500,000 (varies by bank)</li>
+                            <li>Monthly maintenance charges: AED 100 – AED 500 (if balance not maintained)</li>
+                            <li>Chequebook and debit card issuance fees (optional)</li>
+                          </ul>
+                        </div>
+                        <br />
+                        <hr className="my-6" />
+                        <br />
+                        <div >
+                          <h3 className="font-semibold text-base mb-4">
+                            Final Thoughts
+                          </h3>
+                          <p>
+                            Opening a corporate bank account in the UAE is a crucial part of your business journey. While the process may seem complex due to banking regulations and compliance checks, it becomes smooth when handled professionally. Always choose a bank that aligns with your business goals, whether you prioritise international access, digital banking, or low fees.
+                          </p>
+                          <p className="mt-3">
+                            If you're unsure where to start or need assistance with paperwork and bank coordination, <strong>UBIXO</strong> can help. With 3,250+ active clients and over 13 years of experience, we offer seamless solutions for bank account setup in the UAE.
                           </p>
                         </div>
+                        <br />
+                        <hr className="my-6" />
+                        <br />
+                        <div className="w-[90%] md:w-[70%]">
+                          <h3 className="font-semibold text-base">
+                            Frequently Asked Questions (FAQ)
+                          </h3>
+                          <div className="space-y-6">
+                            {[
+                              {
+                                q: "Can I open a corporate bank account in the UAE without being a resident?",
+                                a: "Yes, but it's challenging. Most UAE banks prefer at least one UAE resident shareholder. Non-residents may face higher scrutiny and must provide detailed documentation.",
+                              },
+                              {
+                                q: "What is the minimum balance for a corporate bank account in the UAE?",
+                                a: "Minimum balances range from AED 25,000 to AED 500,000, depending on the bank and the account type. Failure to maintain this may incur monthly fees.",
+                              },
+                              {
+                                q: "How long does it take to open a corporate bank account in the UAE?",
+                                a: "It usually takes 7 to 20 business days from the date of application submission, depending on the bank’s internal compliance process.",
+                              },
+                              {
+                                q: "Which banks are best for small businesses in the UAE?",
+                                a: "Mashreq, RAKBANK, and Emirates NBD are considered startup-friendly due to their lower balance requirements and fast onboarding.",
+                              },
+                              {
+                                q: "Can free zone companies open corporate accounts in UAE banks?",
+                                a: "Yes, most free zone companies can open corporate bank accounts, but banks evaluate them based on office space, business activity, and shareholder background.",
+                              },
+                              {
+                                q: "Can I open a UAE corporate bank account online?",
+                                a: "Initial applications can be started online, but banks will still require in-person verification or video KYC interviews before account activation.",
+                              },
+                            ].map((faq, index) => (
+                              <details
+                                key={index}
+                                className="border rounded-lg p-4 group open:shadow-md transition-all"
+                              >
+                                <summary className="font-medium cursor-pointer text-lg text-gray-800 group-open:font-semibold">
+                                  {faq.q}
+                                </summary>
+                                <p className="mt-2 text-gray-600">{faq.a}</p>
+                              </details>
+                            ))}
+                          </div>
+                        </div>
+
+                        
                       </div>
                     </div>
                   </div>
