@@ -13,7 +13,7 @@ export const blogs1 = [
     id: 2,
     delay: "0.2s",
     imgSrc: "/assets/images/blog/post-prev-2.jpg",
-    title: "Random Explorations with Cinema 4D and Redshift",
+    title: "Free Zone vs. Mainland Company Setup in the UAE – Which One Should You Choose?",
     text: "Nidia Dias is a 3D designer based in the Portugal with an incredible portfolio. From the professional work done with...",
     authorImg: "/assets/images/blog/author/author-2.jpg",
     authorName: "Emma Kandel",
@@ -270,7 +270,7 @@ export const blogs10 = [
     id: 2,
     imgSrc: "/assets/images/demo-modern/blog/2.jpg",
     imgAlt: "Image Description",
-    title: "Minimalistic Design Concept for Balmain Online Store",
+    title: "Free Zone vs. Mainland Company Setup in the UAE – Which One Should You Choose?",
     date: "December 3, 2023",
   },
   {

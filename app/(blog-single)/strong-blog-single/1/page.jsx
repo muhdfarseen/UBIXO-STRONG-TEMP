@@ -90,6 +90,8 @@ export default async function StrongBlogSinglePage(props) {
                           This step-by-step guide covers everything you need to know before launching your business, including zones, license types, regulations, and compliance requirements.
                           </p>
                         </div>
+                        <br />
+                        <hr className="my-6" />
                           <div className="blog-item-body">
                             <h2>Dubai’s Economic Outlook: Why 2025 is the Right Time to Invest</h2>
                             <ul>
@@ -98,6 +100,7 @@ export default async function StrongBlogSinglePage(props) {
                               <li>EKN ranks the UAE as a low-risk country for business (Risk Category 2 of 7).</li>
                               <li>Dubai offers 0% personal income tax, cutting-edge infrastructure, and efficient business registration services.</li>
                             </ul>
+                            
                             <div className="mb-40 mb-xs-30">
                               <Image
                                 src="/assets/images/demo-bold/portfolio/4.jpg"
@@ -106,6 +109,8 @@ export default async function StrongBlogSinglePage(props) {
                                 height={819}
                               />
                             </div>
+                            <br />
+                            <hr className="my-6" />
                             <h3 className="font-semibold text-base">Things to Know Before Setting Up Your Business</h3>
                             <p>Before you begin the registration process, it’s important to understand the key factors that will influence your business setup. These include your business jurisdiction, type of license, and operational model. </p>
 
@@ -170,6 +175,8 @@ export default async function StrongBlogSinglePage(props) {
                               <li>May need a UAE sponsor for certain local services</li>
                               <li>May face banking restrictions in opening UAE corporate accounts</li>
                             </ul>
+                            <br />
+                            <hr className="my-6" />
 
                             <h3 className="font-semibold text-base">Types of Licenses in Dubai</h3>
                             <p>Choosing the correct license is crucial. Dubai issues six major license categories based on your business activity:</p>
@@ -200,7 +207,8 @@ export default async function StrongBlogSinglePage(props) {
                               </li>
                             </ol>
                             <p><strong>Note:</strong> Some activities may require additional approvals from relevant ministries (e.g., health, education, legal, or environment).</p>
-
+                            <br />
+                            <hr className="my-6" />
 
                             <h3 className="font-semibold text-base">Step-by-Step Process to Setup Your Business in Dubai (2025)</h3>
                             <p>Setting up a business in Dubai involves several administrative and regulatory steps. Here’s a comprehensive breakdown of each stage in 2025:</p>
@@ -342,6 +350,9 @@ export default async function StrongBlogSinglePage(props) {
                               </ul>
                               <p>Visa quotas depend on your business activity and office size. Mainland firms often enjoy larger quotas.</p>
 
+                            <br />
+                            <hr className="my-6" />
+
 
                             <h3 className="font-semibold text-base">Compliance and Taxation (2025 Update)</h3>
                             <p>Stay compliant with the latest UAE regulations:</p>
@@ -353,12 +364,18 @@ export default async function StrongBlogSinglePage(props) {
                               <li>Audit & Bookkeeping: Mandatory for most businesses</li>
                             </ul>
 
+                            
+                            
+                            <hr className="my-6" />
+
                             <h3 className="font-semibold text-base">How Long Does It Take to Register a Business in Dubai?</h3>
                             <ul>
                               <li>Mainland: 5–10 working days</li>
                               <li>Free Zone: 3–7 working days</li>
                               <li>Offshore: 3–5 working days</li>
                             </ul>
+                            
+                            <hr className="my-6" />
                             <h3 className="font-semibold text-base">Cost of Starting a Business in Dubai (2025) – Full Breakdown</h3>
                             <div className="table-responsive">
                               <table className="table table-bordered">
@@ -388,6 +405,7 @@ export default async function StrongBlogSinglePage(props) {
                                 </tbody>
                               </table>
                             </div>
+
                             <h3 className="font-semibold text-base">Mainland Company Setup Cost Breakdown</h3>
                             <div className="table-responsive">
                               <table className="table table-bordered">
@@ -544,6 +562,9 @@ export default async function StrongBlogSinglePage(props) {
                               </table>
                             </div>
 
+                            <br />
+                            <hr className="my-6" />
+
                             <h3 className="font-semibold text-base">Partner with UBIXO for a Seamless Business Setup</h3>
                             <p>UBIXO offers expert guidance, fixed-cost local sponsorship, and full legal support to help you launch confidently in Dubai. We handle:</p>
                             <ul>
@@ -553,6 +574,8 @@ export default async function StrongBlogSinglePage(props) {
                               <li>Corporate banking</li>
                               <li>Visas and office space</li>
                             </ul>
+                            
+                            <hr className="my-6" />
                             <h3 className="font-semibold text-base">Ready to Set Up Your Business in Dubai?<br /></h3>
                             <p>
                             Starting a business in Dubai might seem like a complex journey, but with the right support, the entire process can be completed in just a few weeks. Whether you're planning to launch a tech startup, a trading company, or an import-export business, Dubai offers everything you need—world-class infrastructure, investor-friendly policies, and a strategic gateway to global markets.<br /><br />
