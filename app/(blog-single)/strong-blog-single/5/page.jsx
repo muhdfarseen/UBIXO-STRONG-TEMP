@@ -85,413 +85,384 @@ export default async function StrongBlogSinglePage(props) {
                         {/* Section: Introduction to UAE Business Environment */}
                         <div className="row mb-sm-20">
                           <h2 className="h3 font-alt mb-20">
-                            The UAE continues to be one of the most attractive destinations in
-                            the Middle East for entrepreneurs and investors. Thanks to its
-                            business-friendly environment, zero-tax policies, strategic
-                            location, and robust infrastructure, the country offers unmatched
-                            opportunities across various sectors.
-                          </h2>
-                          <p className="mb-0">
-                            When starting a business in the UAE, one of the most common
-                            questions is: <br />
-                          </p>
+                          The United Arab Emirates (UAE) implemented its Federal Corporate Tax (CT) system on 1 June 2023, marking a significant shift in the nation’s economic landscape. The corporate tax regime aligns with international tax standards, enhances transparency, and reinforces the UAE’s competitiveness as a global business hub. This blog provides a complete and SEO-optimised overview of corporate tax in the UAE for 2025, including rates, exemptions, applicability, filing deadlines, and registration requirements.
+                          </h2> 
                         </div>
-
-                        <div className="blog-item-body">
-                          {/* Section: Choosing Between Free Zone or Mainland Company */}
-                          <h3 className="font-semibold text-base">
-                            Should I Choose a Free Zone or a Mainland Company?
-                          </h3>
-                          <p>
-                            At <strong>UBIXO</strong>, we understand that choosing between a
-                            Mainland or Free Zone company is a critical decision that affects
-                            your business's legal obligations, ownership structure,
-                            operational freedom, and growth potential. This guide will walk
-                            you through the key differences, advantages, and considerations
-                            for each option.
-                          </p>
-
-                          <hr className="my-6" />
-
-                          {/* Subsection: What Is a Mainland Company in the UAE? */}
-                          <h3 className="font-semibold text-base">What Is a Mainland Company in the UAE?</h3>
-                          <p>
-                            A Mainland company (also known as an onshore company) is licensed
-                            by the Department of Economic Development (DED) in the respective
-                            emirate. These companies are permitted to operate across the
-                            entire UAE and engage in international business without
-                            restriction.
-                          </p>
-                          <strong>Key Features:</strong>
-                          <ul>
-                            <li>Can conduct business anywhere in the UAE and internationally</li>
-                            <li>Eligible to bid for UAE government contracts and projects</li>
-                            <li>Can open multiple branches throughout the UAE</li>
-                            <li>Subject to UAE commercial and labor laws</li>
-                            <li>
-                              Allows 100% foreign ownership for most business activities
-                              (post-2020 reforms, no local sponsor required in many cases)
-                            </li>
-                          </ul>
-
-                          <hr className="my-6" />
-
-                          {/* Subsection: What Is a Free Zone Company? */}
-                          <h3 className="font-semibold text-base">What Is a Free Zone Company?</h3>
-                          <p>
-                            A Free Zone company operates within a designated economic zone
-                            that has its own regulatory framework and authority. These zones
-                            are ideal for entrepreneurs and SMEs seeking full ownership,
-                            simplified business setup, and tax advantages.
-                          </p>
-                          <p>
-                            The UAE has over 45 Free Zones catering to specific industries
-                            such as technology, media, education, healthcare, finance,
-                            logistics, and more.
-                          </p>
-                          <strong>Key Features:</strong>
-                          <ul>
-                            <li>100% foreign ownership from the start</li>
-                            <li>
-                              Perfect for import/export, consulting, and digital/e-commerce
-                              ventures
-                            </li>
-                            <li>Zero personal income tax and corporate tax (up to applicable
-                              thresholds)</li>
-                            <li>
-                              Simplified licensing, visa issuance, and business setup
-                              procedures
-                            </li>
-                            <li>
-                              Not allowed to conduct direct business within the UAE mainland
-                              without a local distributor or agent
-                            </li>
-                          </ul>
-
-                          <hr className="my-6" />
-
-                          {/* Section: Free Zone vs. Mainland: A Full Comparison Table */}
-                          <h3 className="font-semibold text-base">
-                            Free Zone vs. Mainland: A Full Comparison Table
-                          </h3>
-                          <div className="table-responsive">
-                            <table className="table table-bordered">
-                              <thead>
-                                <tr>
-                                  <th>Feature</th>
-                                  <th>Mainland Company</th>
-                                  <th>Free Zone Company</th>
-                                </tr>
-                              </thead>
-                              <tbody>
-                                <tr>
-                                  <td>
-                                    <strong>Ownership</strong>
-                                  </td>
-                                  <td>Up to 100% foreign ownership (for most activities)</td>
-                                  <td>100% foreign ownership from day one</td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Scope of Business</strong>
-                                  </td>
-                                  <td>Can operate anywhere in the UAE and globally</td>
-                                  <td>Can operate inside Free Zone and internationally</td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Government Projects</strong>
-                                  </td>
-                                  <td>Eligible to bid for UAE government contracts</td>
-                                  <td>Not eligible for public or government tenders</td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Office Requirement</strong>
-                                  </td>
-                                  <td>Mandatory physical office (min. 200 sq. ft.)</td>
-                                  <td>Virtual/flexi-desk offices allowed in many zones</td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Visa Eligibility</strong>
-                                  </td>
-                                  <td>No limit (based on office size and approvals)</td>
-                                  <td>Limited (typically 1–6 visas depending on package)</td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Taxation</strong>
-                                  </td>
-                                  <td>
-                                    0% personal income tax, 9% corporate tax above AED 375,000
-                                  </td>
-                                  <td>
-                                    0% personal tax; corporate tax may vary or be exempt based
-                                    on Free Zone
-                                  </td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Audit Requirement</strong>
-                                  </td>
-                                  <td>Annual audit mandatory</td>
-                                  <td>Varies by Free Zone (some don't require audits)</td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Customs Duty</strong>
-                                  </td>
-                                  <td>Customs duty applies (standard UAE rate: 5%)</td>
-                                  <td>
-                                    Usually exempt from import/export duties within Free Zone
-                                  </td>
-                                </tr>
-                                <tr>
-                                  <td>
-                                    <strong>Public Directory Listing</strong>
-                                  </td>
-                                  <td>Yes (company details publicly listed)</td>
-                                  <td>No (shareholder details are kept private)</td>
-                                </tr>
-                              </tbody>
-                            </table>
-                          </div>
-
-                          <hr className="my-6" />
-
-                          {/* Section: Common Questions & FAQ */}
-                          <div className="w-[90%] md:w-[70%]">
-                            <h3 className="font-semibold text-base">
-                              Common Questions Business Owners Ask – Answered by UBIXO
-                            </h3>
-                            <div className="space-y-6">
-                              {[
-                                {
-                                  q: "Can I do business in the mainland with a Free Zone license?",
-                                  a: "Not directly. You need to appoint a local distributor or commercial agent to legally offer goods or services in the mainland from a free zone.",
-                                },
-                                {
-                                  q: "Can I own 100% of my mainland company?",
-                                  a: "Yes, thanks to the UAE's new Foreign Ownership Law, 100% foreign ownership is allowed for most business activities. However, a few activities still require a local Emirati partner.",
-                                },
-                                {
-                                  q: "Which is cheaper – Free Zone or Mainland?",
-                                  a: "Generally, Free Zone setups are cheaper in terms of license costs, office space, and setup fees. However, they may have a limited business scope. A mainland setup can be costlier initially but offers broader market access.",
-                                },
-                                {
-                                  q: "Can I open a bank account in the UAE with both licenses?",
-                                  a: "Yes, both mainland and free zone companies are eligible to open corporate bank accounts in the UAE. Free zone companies may be asked for more documentation.",
-                                },
-                                {
-                                  q: "Which is better for e-commerce?",
-                                  a: "Free zones like Dubai CommerCity, RAKEZ, and Sharjah Media City (Shams) offer tailored packages for e-commerce businesses with lower fees and faster approvals.",
-                                },
-                              ].map((faq, index) => (
-                                <details
-                                  key={index}
-                                  className="border rounded-lg p-4 group open:shadow-md transition-all"
-                                >
-                                  <summary className="font-medium cursor-pointer text-lg text-gray-800 group-open:font-semibold">
-                                    {faq.q}
-                                  </summary>
-                                  <p className="mt-2 text-gray-600">{faq.a}</p>
-                                </details>
-                              ))}
-                            </div>
-                          </div>
-
-                          <hr className="my-6" />
-
-                          {/* Section: Advantages of Each Company Type */}
-                          <h3 className="font-semibold text-base">
-                            Advantages of Setting Up a Mainland Company
-                          </h3>
-                          <ul>
-                            <li>Operate anywhere in the UAE without restrictions</li>
-                            <li>Ability to take on government and private sector contracts</li>
-                            <li>No limits on the number of visas (based on office size)</li>
-                            <li>Better chances of opening bank accounts and getting funding</li>
-                            <li>Freedom to rent office space anywhere in the emirate</li>
-                            <li>Strong reputation with local companies</li>
-                          </ul>
-
-                          <h3 className="font-semibold text-base">
-                            Advantages of Setting Up a Free Zone Company
-                          </h3>
-                          <ul>
-                            <li>Full foreign ownership with zero local sponsor requirements</li>
-                            <li>Lower startup and operational costs</li>
-                            <li>Access to modern infrastructure and coworking spaces</li>
-                            <li>100% repatriation of profits and capital</li>
-                            <li>No customs duties within the free zone</li>
-                            <li>Faster company setup with minimal paperwork</li>
-                            <li>Support services like legal, admin, HR within the zone</li>
-                          </ul>
-
-                          <hr className="my-6" />
-
-                          {/* Section: Important Considerations Before Deciding */}
-                          <h3 className="font-semibold text-base">Things to Keep in Mind – Before You Decide</h3>
-                          <p>
-                            Every business structure comes with its own unique requirements.
-                            While both Free Zone and Mainland companies offer numerous
-                            benefits, it’s helpful to be aware of a few practical
-                            considerations so you can plan accordingly.
-                          </p>
-
-                          <h5 className="font-semibold mt-4">For Mainland Companies:</h5>
-                          <ul>
-                            <li>
-                              <strong>Office Space Is a Must:</strong> To operate as a
-                              mainland company, you are required to lease a physical office
-                              (minimum 200 sqft). This adds to your operational footprint –
-                              but also enhances your local presence and credibility among UAE
-                              clients.
-                            </li>
-                            <li>
-                              <strong>More Government Interactions:</strong> Since mainland
-                              businesses must register with various departments (DED,
-                              Municipality, Labour Ministry, etc.), the setup involves more
-                              paperwork. With UBIXO handling it all on your behalf, you can
-                              focus on your business without delays.
-                            </li>
-                            <li>
-                              <strong>Annual Financial Audit:</strong> Mainland companies
-                              must conduct a yearly financial audit. This ensures
-                              transparency and positions your company strongly when applying
-                              for loans, investors, or government contracts.
-                            </li>
-                          </ul>
-
-                          <h5 className="font-semibold mt-4">For FreeZone Companies:</h5>
-                          <ul>
-                            <li>
-                              <strong>Trade Within UAE Requires a Local Agent:</strong> Free
-                              zone companies can’t directly trade in the UAE mainland. But
-                              this also helps maintain focus on global markets and e-commerce,
-                              which are fast-growing sectors in the region.
-                            </li>
-                            <li>
-                              <strong>Visa Allocation Is Capped:</strong> Each free zone
-                              offers a set number of visa slots depending on your package. If
-                              your team grows, you can always upgrade to a larger space or
-                              additional visa quota — something UBIXO can easily assist with.
-                            </li>
-                            <li>
-                              <strong>Limited Public Visibility:</strong> Free zone companies
-                              are not listed in public directories. While this protects
-                              privacy, it may require additional marketing to establish brand
-                              recognition locally.
-                            </li>
-                          </ul>
-
-                          <hr className="my-6" />
-
-                          {/* Section: How UBIXO Helps You Make the Right Choice */}
-                          <h3 className="font-semibold text-base">
-                            How UBIXO Helps You Make the Right Choice
-                          </h3>
-                          <p>
-                            At <strong>UBIXO</strong>, we don’t just guide you through
-                            setting up your business — we help you strategically choose the
-                            best jurisdiction based on your goals, industry, and budget.
-                          </p>
-                          <p>Our consultants will:</p>
-                          <ul>
-                            <li>Help you compare and evaluate free zone vs. mainland</li>
-                            <li>Identify if your activity qualifies for 100% foreign
-                              ownership</li>
-                            <li>Assist with name reservation, initial approval, legal
-                              drafting</li>
-                            <li>Find cost-effective office space (physical or virtual)</li>
-                            <li>Handle visa applications, labour cards, and immigration</li>
-                            <li>
-                              Offer post-setup services like VAT registration, accounting, PRO
-                              services, and more
-                            </li>
-                          </ul>
-
-                          <hr className="my-6" />
-
-                          {/* Section: Key Takeaways Table */}
-                          <h3 className="font-semibold text-base mb-4">
-                            Choosing Between Mainland and Free Zone – Key Takeaways
-                          </h3>
-                          <table className="table table-bordered">
-                            <thead>
-                              <tr>
-                                <th>Consideration</th>
-                                <th>Go for Mainland if…</th>
-                                <th>Choose Free Zone if…</th>
-                              </tr>
-                            </thead>
-                            <tbody>
-                              <tr>
-                                <td>Business Reach</td>
-                                <td>You want to serve the UAE market directly</td>
-                                <td>You only want to operate internationally</td>
-                              </tr>
-                              <tr>
-                                <td>Ownership</td>
-                                <td>You're eligible for 100% ownership</td>
-                                <td>You want 100% ownership with zero restrictions</td>
-                              </tr>
-                              <tr>
-                                <td>Budget</td>
-                                <td>You have a moderate to high startup fund</td>
-                                <td>You're bootstrapping or want low setup costs</td>
-                              </tr>
-                              <tr>
-                                <td>Industry</td>
-                                <td>You want to work in regulated sectors</td>
-                                <td>You’re into trading, services, consulting, etc.</td>
-                              </tr>
-                              <tr>
-                                <td>Speed of Setup</td>
-                                <td>You’re okay with more paperwork</td>
-                                <td>You want a fast-tracked setup</td>
-                              </tr>
-                            </tbody>
-                          </table>
-
-                          <hr className="my-6" />
-
-                          {/* Section: Call to Action */}
-                          <h3 className="font-semibold text-base">
-                            Let UBIXO Make Your Business Launch Smooth & Successful
-                          </h3>
-                          <p>
-                            With thousands of successful company formations in the UAE,{" "}
-                            <strong>UBIXO</strong> is your trusted partner for seamless
-                            business setup. We ensure your business is registered efficiently,
-                            legally, and cost-effectively — with transparent pricing and
-                            expert advice.
-                          </p>
-                          <p>
-                            From initial consultation to complete documentation and ongoing
-                            support, UBIXO handles it all. Whether you’re a solo entrepreneur,
-                            SME, or a multinational expanding into the UAE, we’ve got your
-                            back.
-                          </p>
-
-                          <hr className="my-6" />
-
-                          <h3 className="font-semibold text-base mt-6">
-                            Book a FREE Consultation Today
-                          </h3>
-                          <p>
-                            Let’s discuss your business plan and find the right setup
-                            strategy — Free Zone or Mainland — tailored just for you.<br />
-                          </p>
-                          <p className="mb-0">
-                            📞{" "}
-                            <a href="#contact" className="underline text-blue-600">
-                              Contact Us
-                            </a>{" "}
-                            today to turn your business idea into a reality in Dubai.{" "}
-                          </p>
+                        <div>
+                        <h3 className="font-semibold text-base">What is Corporate Tax in the UAE?</h3>
+                        <p>
+                          Corporate tax is a direct tax imposed on the net income or profit of businesses operating within the UAE. The standard CT rate is 9% on taxable income exceeding AED 375,000, making it one of the lowest globally.
+                        </p>
+                        <h4 className="font-semibold text-sm mt-4">Objectives of Implementing Corporate Tax</h4>
+                        <ul className="list-disc list-inside ml-4">
+                          <li>Ensure tax transparency and prevent harmful tax practices</li>
+                          <li>Diversify national income sources</li>
+                          <li>Align with OECD Pillar Two standards for Base Erosion and Profit Shifting (BEPS)</li>
+                          <li>Strengthen the UAE’s status as a global business and investment hub</li>
+                        </ul>
                         </div>
+                      <hr className="my-6" />
+                      <div>
+                      <h3 className="font-semibold text-base mb-4">
+                        Who is Subject to UAE Corporate Tax?
+                      </h3>
+                      <div className="overflow-x-auto">
+                        <table className="table-auto border-collapse border border-gray-300 w-full text-sm">
+                          <thead className="bg-gray-100">
+                            <tr>
+                              <th className="border border-gray-300 px-4 py-2 text-left">Category</th>
+                              <th className="border border-gray-300 px-4 py-2 text-left">Details</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2 font-medium">Mainland Companies</td>
+                              <td className="border border-gray-300 px-4 py-2">All UAE-incorporated businesses, unless exempt</td>
+                            </tr>
+                            <tr className="bg-gray-50">
+                              <td className="border border-gray-300 px-4 py-2 font-medium">Free Zone Companies</td>
+                              <td className="border border-gray-300 px-4 py-2">0% on Qualifying Income; 9% on Non-Qualifying Income</td>
+                            </tr>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2 font-medium">Foreign Companies</td>
+                              <td className="border border-gray-300 px-4 py-2">Subject to CT if they have UAE-sourced income or Permanent Establishment (PE)</td>
+                            </tr>
+                            <tr className="bg-gray-50">
+                              <td className="border border-gray-300 px-4 py-2 font-medium">Individuals</td>
+                              <td className="border border-gray-300 px-4 py-2">Self-employed individuals & freelancers earning over AED 375,000</td>
+                            </tr>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2 font-medium">Tax Groups</td>
+                              <td className="border border-gray-300 px-4 py-2">Groups under 75% common ownership can file consolidated tax returns</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                    <br />
+                    <hr className="my-6" />
+                    <br />
+                    <div>
+                      <h3 className="font-semibold text-base mb-4">
+                        Corporate Tax Rates in the UAE (2025)
+                      </h3>
+                      <div className="overflow-x-auto">
+                        <table className="table-auto border-collapse border border-gray-300 w-full text-sm">
+                          <thead className="bg-gray-100">
+                            <tr>
+                              <th className="border border-gray-300 px-4 py-2 text-left">Taxable Income Range</th>
+                              <th className="border border-gray-300 px-4 py-2 text-left">Corporate Tax Rate</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2">Up to AED 375,000</td>
+                              <td className="border border-gray-300 px-4 py-2 font-semibold">0%</td>
+                            </tr>
+                            <tr className="bg-gray-50">
+                              <td className="border border-gray-300 px-4 py-2">Above AED 375,000</td>
+                              <td className="border border-gray-300 px-4 py-2 font-semibold">9%</td>
+                            </tr>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2">Multinational Enterprises (MNEs)*</td>
+                              <td className="border border-gray-300 px-4 py-2 font-semibold">15%</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <p className="mt-2 text-xs text-gray-600 italic">
+                        *Applicable only to MNEs falling under OECD Pillar Two rules, effective from 1 January 2025.
+                      </p>
+                    </div>
+                    <hr className="my-6" />
+                    <h3 className="font-semibold text-base">Exempt Entities</h3>
+                    <p>Entities exempt from UAE corporate tax include:</p>
+                    <ul className="list-disc list-inside ml-4">
+                      <li>Government and government-controlled entities</li>
+                      <li>Public benefit entities and registered charities</li>
+                      <li>Pension and social security funds</li>
+                      <li>Qualifying investment funds</li>
+                      <li>Extractive and non-extractive natural resource businesses</li>
+                    </ul>
+
+                    <h3 className="font-semibold text-base mt-6">Small Business Relief in the UAE</h3>
+                    <p>
+                      Available for businesses with revenue not exceeding AED 3 million for the relevant and previous tax periods. This relief is valid until December 31, 2026. Such businesses can:
+                    </p>
+                    <ul className="list-disc list-inside ml-4">
+                      <li>Apply simplified returns</li>
+                      <li>Use cash basis accounting</li>
+                      <li>Benefit from a 0% tax rate</li>
+                    </ul>
+
+                    <h3 className="font-semibold text-base mt-6">Corporate Tax Applicability for Free Zones</h3>
+                    <p>A Free Zone company can qualify for 0% corporate tax if it meets all of the following conditions:</p>
+                    <ul className="list-disc list-inside ml-4">
+                      <li>Registered and operating in a UAE Free Zone</li>
+                      <li>Derives Qualifying Income (e.g., trading within Free Zones, international trading, certain service activities)</li>
+                      <li>Maintains adequate economic substance</li>
+                      <li>Has not elected for standard CT rate</li>
+                      <li>Complies with Transfer Pricing rules</li>
+                      <li>Prepares audited financial statements</li>
+                      <li>Ensures Non-Qualifying Income is below the De Minimis Threshold</li>
+                    </ul>
+                    <hr className="my-6" />
+                    <h3 className="font-semibold text-base">Qualifying Activities for Free Zone Companies</h3>
+                    <ul className="list-disc list-inside ml-4">
+                      <li>Manufacturing and processing of goods</li>
+                      <li>Reinsurance, fund management, investment services</li>
+                      <li>Holding company activities</li>
+                      <li>Treasury and financing for related parties</li>
+                      <li>Logistics and shipping</li>
+                      <li>Trading within or from Designated Zones</li>
+                    </ul>
+
+                    <h3 className="font-semibold text-base mt-6">Excluded Activities under UAE Corporate Tax (Non-Qualifying)</h3>
+                    <ul className="list-disc list-inside ml-4">
+                      <li>Income from natural persons</li>
+                      <li>Banking and insurance (except reinsurance)</li>
+                      <li>Real estate activities involving non-Free Zone persons</li>
+                    </ul>
+
+                    <h3 className="font-semibold text-base mt-6">De Minimis Threshold Explained</h3>
+                    <p>
+                      Non-qualifying income must not exceed the lesser of:
+                    </p>
+                    <ul className="list-disc list-inside ml-4">
+                      <li>5% of total revenue; or</li>
+                      <li>AED 5 million</li>
+                    </ul>
+
+                    <hr className="my-6" />
+
+                    <div>
+                      <h3 className="font-semibold text-base mb-4">
+                        Corporate Tax Registration Deadlines (As per FTA Decision No. 3 of 2024)
+                      </h3>
+                      <div className="overflow-x-auto">
+                        <table className="table-auto border-collapse border border-gray-300 w-full text-sm">
+                          <thead className="bg-gray-100">
+                            <tr>
+                              <th className="border border-gray-300 px-4 py-2 text-left">Trade License Issue Date</th>
+                              <th className="border border-gray-300 px-4 py-2 text-left">Tax Registration Deadline</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2">Jan 1 – Jan 31</td>
+                              <td className="border border-gray-300 px-4 py-2">May 31, 2024</td>
+                            </tr>
+                            <tr className="bg-gray-50">
+                              <td className="border border-gray-300 px-4 py-2">Feb 1 – Feb 29</td>
+                              <td className="border border-gray-300 px-4 py-2">May 31, 2024</td>
+                            </tr>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2">Mar 1 – Mar 31</td>
+                              <td className="border border-gray-300 px-4 py-2">June 30, 2024</td>
+                            </tr>
+                            <tr className="bg-gray-50">
+                              <td className="border border-gray-300 px-4 py-2">Apr 1 – Apr 30</td>
+                              <td className="border border-gray-300 px-4 py-2">June 30, 2024</td>
+                            </tr>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2">May 1 – May 31</td>
+                              <td className="border border-gray-300 px-4 py-2">July 31, 2024</td>
+                            </tr>
+                            <tr className="bg-gray-50">
+                              <td className="border border-gray-300 px-4 py-2">Jun 1 – Jun 30</td>
+                              <td className="border border-gray-300 px-4 py-2">Aug 31, 2024</td>
+                            </tr>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2">Jul 1 – Jul 31</td>
+                              <td className="border border-gray-300 px-4 py-2">Sep 30, 2024</td>
+                            </tr>
+                            <tr className="bg-gray-50">
+                              <td className="border border-gray-300 px-4 py-2">Aug 1 – Aug 31</td>
+                              <td className="border border-gray-300 px-4 py-2">Oct 31, 2024</td>
+                            </tr>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2">Sep 1 – Sep 30</td>
+                              <td className="border border-gray-300 px-4 py-2">Oct 31, 2024</td>
+                            </tr>
+                            <tr className="bg-gray-50">
+                              <td className="border border-gray-300 px-4 py-2">Oct 1 – Oct 31</td>
+                              <td className="border border-gray-300 px-4 py-2">Nov 30, 2024</td>
+                            </tr>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2">Nov 1 – Nov 30</td>
+                              <td className="border border-gray-300 px-4 py-2">Nov 30, 2024</td>
+                            </tr>
+                            <tr className="bg-gray-50">
+                              <td className="border border-gray-300 px-4 py-2">Dec 1 – Dec 31</td>
+                              <td className="border border-gray-300 px-4 py-2">Dec 31, 2024</td>
+                            </tr>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2">No license (as of Mar 2024)</td>
+                              <td className="border border-gray-300 px-4 py-2">3 months from Mar 1, 2024</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <p className="mt-2 text-sm text-red-600 font-medium">
+                        Penalty for Late Registration: AED 10,000
+                      </p>
+                    </div>
+
+                    <hr className="my-6" />
+
+                    <h3 className="font-semibold text-base">Steps to File Corporate Tax in UAE</h3>
+                    <ol className="list-decimal list-inside ml-4 space-y-4">
+                      <li>
+                        <strong>Register with the FTA via the EmaraTax Platform:</strong>
+                        <ul className="list-disc list-inside ml-4">
+                          <li>Every taxable person must register with the Federal Tax Authority (FTA) through the EmaraTax portal.</li>
+                          <li>Upon successful registration, you will receive a Tax Registration Number (TRN), mandatory for all tax filings and communications.</li>
+                        </ul>
+                      </li>
+                      <li>
+                        <strong>Maintain Proper Financial Records:</strong>
+                        <ul className="list-disc list-inside ml-4">
+                          <li>Maintain books of account per IFRS, IFRS for SMEs, or on a cash basis (if eligible).</li>
+                          <li>Keep records for at least 7 years from the end of the tax period.</li>
+                          <li>Include: invoices, ledgers, payrolls, contracts, and bank statements.</li>
+                        </ul>
+                      </li>
+                      <li>
+                        <strong>Calculate Taxable Income:</strong>
+                        <ul className="list-disc list-inside ml-4">
+                          <li>Determine net profit from financial statements.</li>
+                          <li>Adjust for exempt income, disallowed deductions, and applicable reliefs (e.g., small business relief).</li>
+                          <li>Ensure Transfer Pricing compliance for related-party transactions.</li>
+                        </ul>
+                      </li>
+                      <li>
+                        <strong>Prepare and File the Tax Return:</strong>
+                        <ul className="list-disc list-inside ml-4">
+                          <li>File the return electronically via EmaraTax.</li>
+                          <li>Deadline: Within 9 months from the end of the financial year.</li>
+                          <li>Only one tax return is required per financial year (no advance/provisional returns).</li>
+                        </ul>
+                      </li>
+                      <li>
+                        <strong>Pay the Tax Liability:</strong>
+                        <ul className="list-disc list-inside ml-4">
+                          <li>Pay the tax due before the deadline to avoid penalties.</li>
+                          <li>Payment can be made through various methods on EmaraTax.</li>
+                        </ul>
+                      </li>
+                      <li>
+                        <strong>Retain Records and Stay Compliant:</strong>
+                        <ul className="list-disc list-inside ml-4">
+                          <li>Keep all documentation for 7 years post-tax period.</li>
+                          <li>Maintain consistency in accounting methods.</li>
+                          <li>Monitor regulatory changes and seek expert advice for compliance.</li>
+                        </ul>
+                      </li>
+                    </ol>
+                    <hr className="my-6" />
+                    <div>
+                      <h3 className="font-semibold text-base mb-4">
+                        Filing Requirements Based on Revenue (2025)
+                      </h3>
+                      <div className="overflow-x-auto">
+                        <table className="table-auto border-collapse border border-gray-300 w-full text-sm">
+                          <thead className="bg-gray-100">
+                            <tr>
+                              <th className="border border-gray-300 px-4 py-2 text-left">Revenue Level</th>
+                              <th className="border border-gray-300 px-4 py-2 text-left">Accounting Standard Required</th>
+                              <th className="border border-gray-300 px-4 py-2 text-left">Audit Requirement</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2">Up to AED 3 million</td>
+                              <td className="border border-gray-300 px-4 py-2">Cash Basis</td>
+                              <td className="border border-gray-300 px-4 py-2">Not Required</td>
+                            </tr>
+                            <tr className="bg-gray-50">
+                              <td className="border border-gray-300 px-4 py-2">AED 3M – AED 50 million</td>
+                              <td className="border border-gray-300 px-4 py-2">IFRS for SMEs</td>
+                              <td className="border border-gray-300 px-4 py-2">Optional</td>
+                            </tr>
+                            <tr>
+                              <td className="border border-gray-300 px-4 py-2">Above AED 50 million</td>
+                              <td className="border border-gray-300 px-4 py-2">Full IFRS</td>
+                              <td className="border border-gray-300 px-4 py-2">Mandatory</td>
+                            </tr>
+                            <tr className="bg-gray-50">
+                              <td className="border border-gray-300 px-4 py-2">Qualifying Free Zone Person</td>
+                              <td className="border border-gray-300 px-4 py-2">Full IFRS</td>
+                              <td className="border border-gray-300 px-4 py-2">Mandatory</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+
+                    <br />
+                    <hr className="my-6" />
+                    <br />
+                    <h3 className="font-semibold text-base">Conclusion: Stay Compliant and Future-Proof in 2025</h3>
+                    <p>
+                      Navigating corporate tax in the UAE requires strategic planning, compliance, and timely registration.
+                      By understanding the qualifying conditions, deductions, filing requirements, and potential penalties,
+                      businesses can optimise their tax obligations and avoid costly mistakes.
+                    </p>
+                    <p className="mt-2">
+                      For expert guidance and tax consultation tailored to your business model, it’s best to consult with
+                      UAE-based tax advisors or accounting professionals.
+                    </p>
+                    <div className="w-[90%] md:w-[70%]">
+                      <h3 className="font-semibold text-base">
+                        Frequently Asked Questions (FAQs)
+                      </h3>
+                      <div className="space-y-6">
+                        {[
+                          {
+                            q: "Is salary income taxable under UAE Corporate Tax?",
+                            a: "No, salary and other personal income earned by individuals are not subject to corporate tax. This includes income from employment, real estate investments, and other personal income sources not related to a business or commercial activity.",
+                          },
+                          {
+                            q: "Do all Free Zone Companies qualify for the 0% corporate tax rate?",
+                            a: "Not all Free Zone entities qualify. To benefit from the 0% corporate tax rate, a free zone business must meet strict criteria to be considered a qualifying free zone person. This includes maintaining adequate substance, earning qualifying income, and complying with transfer pricing and audit requirements.",
+                          },
+                          {
+                            q: "Can I file my corporate tax return myself?",
+                            a: "Yes, business owners can file their corporate tax returns through the EmaraTax platform. However, given the complexity of the law, seeking guidance from a certified tax advisor is recommended to ensure compliance and maximise allowable deductions.",
+                          },
+                          {
+                            q: "What are the penalties for missing the corporate tax registration deadline?",
+                            a: "If you fail to register with the Federal Tax Authority by your specified deadline, you will incur a penalty of AED 10,000. Additional fines may apply for late filings or inaccuracies in tax return submissions.",
+                          },
+                          {
+                            q: "How often must I file a corporate tax return in the UAE?",
+                            a: "Corporate tax returns must be filed annually, within 9 months after the end of the relevant financial year. For example, if your financial year ends on 31 December 2024, the tax return must be submitted by 30 September 2025.",
+                          },
+                        ].map((faq, index) => (
+                          <details
+                            key={index}
+                            className="border rounded-lg p-4 group open:shadow-md transition-all"
+                          >
+                            <summary className="font-medium cursor-pointer text-lg text-gray-800 group-open:font-semibold">
+                              {faq.q}
+                            </summary>
+                            <p className="mt-2 text-gray-600">{faq.a}</p>
+                          </details>
+                        ))}
+                      </div>
+                    </div>
+                    <br />
+                    <hr className="my-6" />
+                    <br />
+                    <div className="">
+                      <h3 className="font-semibold text-base mb-2">Get Expert Help</h3>
+                      <p>
+                        Need help registering or filing your UAE corporate tax? Connect with our business consultants for
+                        end-to-end support tailored to your company’s structure.
+                      </p>
+                      <p >Stay compliant. Stay ahead.</p>
+                    </div>
+
                       </div>
                     </div>
                   </div>
