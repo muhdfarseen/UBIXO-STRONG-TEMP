@@ -39,7 +39,7 @@ export default async function StrongBlogSinglePage(props) {
                 <div className="home-content text-center">
                   <h1 className="section-title-medium mb-0">
                     <span className="wow charsAnimIn" data-splitting="chars">
-                      <AnimatedText text={blog.title || blog.postTitle} />
+                    Setting up a Business in Dubai: Your Step-by-Step Guide [2025 Edition]
                     </span>
                   </h1>
                   {/* Author, Categories, Comments */}

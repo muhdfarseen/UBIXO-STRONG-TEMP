@@ -37,9 +37,9 @@ export default async function StrongBlogSinglePage(props) {
               <div className="container position-relative pt-sm-30">
                 {/* Home Section Content */}
                 <div className="home-content text-center">
-                  <h1 className="section-title-medium mb-0">
-                    <span className="wow charsAnimIn" data-splitting="chars">
-                      <AnimatedText text={blog.title || blog.postTitle} />
+                <h1 className="section-title-medium mb-0">
+                  <span className="wow charsAnimIn-2" data-splitting="chars">
+                  18 Common Mistakes to Avoid When Starting a Business in the UAE
                     </span>
                   </h1>
                   {/* Author, Categories, Comments */}

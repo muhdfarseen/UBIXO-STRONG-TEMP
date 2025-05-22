@@ -38,8 +38,8 @@ export default async function StrongBlogSinglePage(props) {
                 {/* Home Section Content */}
                 <div className="home-content text-center">
                   <h1 className="section-title-medium mb-0">
-                    <span className="wow charsAnimIn" data-splitting="chars">
-                      <AnimatedText text={blog.title || blog.postTitle} />
+                  <span className="wow charsAnimIn-2" data-splitting="chars">
+                  Top 23 Business Opportunities in Dubai for 2025
                     </span>
                   </h1>
                   {/* Author, Categories, Comments */}
