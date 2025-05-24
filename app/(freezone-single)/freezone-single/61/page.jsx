@@ -57,9 +57,10 @@ export default async function StrongPortfolioSinglePage(props) {
                 <div className="container relative">
                   <div className="row mb-sm-20">
                     <h2 className="h3 font-alt mb-20">
+                    Unlock seamless business growth in one of the UAE’s most dynamic free zones. At UBIXO, our unparalleled expertise empowers you to confidently navigate complex regulations in Ajman Free Zone.
                     </h2>
                     <p className="mb-0">
-                    Looking to set up your business in the UAE? Ajman Free Zone business setup is one of the easiest and most cost-effective ways to launch your company. With flexible packages, fast processing, and investor-friendly rules, Ajman Free Zone (AFZ) is ideal for startups, SMEs, and global firms.
+                    At UBIXO, we specialize in Ajman Free Zone company formation—delivering end-to-end solutions designed for your business success. Whether you’re establishing a trading firm, consultancy, or industrial enterprise, we simplify the process from licensing to visa processing, ensuring a swift and hassle-free setup.
                     </p>
                   </div>
                 </div>
@@ -71,19 +72,14 @@ export default async function StrongPortfolioSinglePage(props) {
                     <div className="col-md-6 ">
                       <h2 className="h3 font-alt">Company Formation</h2>
                       <p>
-                        We manage your entire Abu Dhabi free zone company
-                        formation process—starting from business activity
-                        selection to obtaining your trade license and company
-                        registration. Our experts ensure every step is accurate
-                        and compliant.
+                      We handle your entire business setup in Ajman Free Zone, from initial structuring to final approvals. Our experts guide you in selecting the right business activity, preparing documentation, and submitting applications for seamless registration.
                       </p>
                     </div>
                     <div className="col-md-6 ">
                       <h2 className="h3 font-alt">Trade Name Registration</h2>
                       <p>
-                        We assist in selecting and registering a compliant trade
-                        name that aligns with Abu Dhabi free zone
-                        regulations—ensuring approval without delays.
+                      UBIXO helps you choose and secure a trade name that aligns with your brand while complying with Ajman Free Zone Authority regulations, ensuring a smooth approval process.
+
                       </p>
                     </div>
                   </div>
@@ -94,21 +90,15 @@ export default async function StrongPortfolioSinglePage(props) {
                         Corporate Administrative Support
                       </h2>
                       <p>
-                        UBIXO handles all administrative responsibilities such as
-                        license renewals, regulatory updates, and document
-                        management—allowing you to focus on business growth while
-                        we ensure compliance.
+                      Our team manages all administrative tasks, including document renewals, government correspondence, and compliance updates, so you can focus on growing your business without bureaucratic delays.
                       </p>
                     </div>
                     <div className="col-md-6">
                       <h2 className="h3 font-alt">
-                        Abu Dhabi Free Zone Licensing
+                      Licensing in Ajman Free Zone
                       </h2>
                       <p>
-                        Whether professional, commercial, or industrial, we help
-                        you apply for the correct Abu Dhabi free zone
-                        license—ensuring fast-track processing with minimal
-                        errors.
+                      WWhether you need a commercial, industrial, or professional license, UBIXO identifies the optimal license type, processes your application, and coordinates with authorities for timely issuance.
                       </p>
                     </div>
                   </div>
@@ -117,18 +107,13 @@ export default async function StrongPortfolioSinglePage(props) {
                     <div className="col-md-6">
                       <h2 className="h3 font-alt">PRO & Visa Services</h2>
                       <p>
-                        We manage all government interactions under Abu Dhabi free
-                        zone visa protocols—covering investor visas, employee
-                        visas, Emirates ID processing, and establishment cards
-                        with full transparency and timely updates.
+                      From residency visas and Emirates IDs to medical tests and labor cards, we handle all immigration and PRO formalities for investors, employees, and dependents—ensuring a smooth and efficient process.
                       </p>
                     </div>
                     <div className="col-md-6">
                       <h2 className="h3 font-alt">Bank Account Assistance</h2>
                       <p>
-                        UBIXO connects you with reputable banks in the UAE and
-                        assists in compiling and submitting all required
-                        documents for seamless business account opening.
+                      UBIXO facilitates your business bank account opening in the UAE by connecting you with leading banks, preparing required documents, and ensuring compliance with financial regulations.
                       </p>
                     </div>
                   </div>
@@ -137,19 +122,13 @@ export default async function StrongPortfolioSinglePage(props) {
                     <div className="col-md-6">
                       <h2 className="h3 font-alt">Office Space Solutions</h2>
                       <p>
-                        Choose from flexi-desks, shared workspaces, or dedicated
-                        offices in Abu Dhabi free zones. We guide you in
-                        selecting the right space that meets both legal and
-                        operational needs.
+                      We offer flexible workspace options in Ajman Free Zone, including flexi-desks, private offices, and warehouses—tailored to your business needs and budget.
                       </p>
                     </div>
                     <div className="col-md-6">
                       <h2 className="h3 font-alt">Ongoing Compliance</h2>
                       <p>
-                        Our admin team ensures your business remains up to date
-                        with the latest Abu Dhabi free zone regulations through
-                        proactive compliance checks, reminders, and
-                        documentation tracking.
+                      Our team provides continuous support with license renewals, audits, and regulatory updates to keep your business fully compliant and operational without interruptions.
                       </p>
                     </div>
                   </div>
@@ -166,9 +145,7 @@ export default async function StrongPortfolioSinglePage(props) {
           <div style={{ padding: "50px" }}>
             <h2 className="h3 font-alt text-center">Our Values</h2>
             <p className="text-center">
-              UBIXO stands for clarity, precision, and genuine client care. Every
-              Abu Dhabi free zone business setup we handle is built on trust,
-              efficiency, and your long-term success.
+            At UBIXO, integrity, efficiency, and partnership are at the heart of everything we do. Your business success is our priority, and we are committed to delivering a truly hassle-free setup experience."
             </p>
           </div>
 
@@ -197,25 +174,45 @@ export default async function StrongPortfolioSinglePage(props) {
               <div className="space-y-6">
                 {[
                   {
-                    q: "How much does an Ajman Free Zone company setup cost?",
-                    a: "Company setup in Ajman Free Zone starts from AED 11,000, depending on the chosen business activity and visa requirements.",
+                    q: "What are the benefits of setting up a business in Ajman Free Zone?",
+                    a: "Ajman Free Zone offers 100% foreign ownership, tax exemptions, full repatriation of profits, modern infrastructure, and strategic location near Dubai. Businesses enjoy fast license processing (often within 24 hours) and cost-effective setup compared to other UAE free zones.",
                   },
                   {
-                    q: "Can I open a company in Ajman Free Zone as a foreigner?",
-                    a: "Yes, Ajman Free Zone allows 100% foreign ownership without the need for a local sponsor.",
+                    q: "How much does it cost to start a company in Ajman Free Zone?",
+                    a: "Costs vary from AED 15,000 to AED 50,000 depending on license type (commercial/industrial/service), office space requirements, and number of visas. This includes license fees, registration, and basic government charges.",
                   },
                   {
-                    q: "What types of business licenses are available in the Ajman Free Zone?",
-                    a: "Ajman Free Zone offers trading, service, industrial, e-commerce, and freelance licenses for various business activities.",
+                    q: "What types of business licenses are available in Ajman Free Zone?",
+                    a: "Ajman Free Zone offers:\n- Commercial License (for trading)\n- Industrial License (for manufacturing)\n- Service License (for consultancy/professional services)\n- E-Commerce License (for online businesses)",
                   },
                   {
-                    q: "What is the visa cost in the Ajman Free Zone?",
-                    a: "Visa costs in Ajman Free Zone typically range from AED 3,500 to AED 6,000 per person, depending on the type and number of visas required.",
+                    q: "Can I get a UAE residency visa through Ajman Free Zone company?",
+                    a: "Yes, each Ajman Free Zone company can sponsor visas for investors, employees and dependents. The number depends on your office space size (1 visa per 80 sq ft in flexi-desk packages).",
                   },
                   {
-                    q: "How long does it take to get a business license in Ajman Free Zone?",
-                    a: "It usually takes 1 to 3 working days to obtain a business license in Ajman Free Zone after submitting all required documents.",
-                  }
+                    q: "What documents are required for Ajman Free Zone company registration?",
+                    a: "You'll need:\n- Passport copies of shareholders\n- Proof of address\n- Business plan/activity description\n- NOC from current sponsor (if residing in UAE)\n- Bank reference letter (for some activities)",
+                  },
+                  {
+                    q: "How long does it take to set up a company in Ajman Free Zone?",
+                    a: "Most businesses can be operational within 3–5 working days for standard setups, including:\n- Trade name reservation (1 day)\n- License approval (1–2 days)\n- Visa processing (3–5 days)",
+                  },
+                  {
+                    q: "Can I operate outside Ajman with an Ajman Free Zone license?",
+                    a: "While you can conduct international business freely, local UAE mainland operations require either a local distributor or separate mainland license. Many businesses use Ajman Free Zone as their HQ while establishing local partnerships.",
+                  },
+                  {
+                    q: "What office space options are available in Ajman Free Zone?",
+                    a: "Choose from:\n- Flexi-desk (shared workspace)\n- Executive offices (private spaces)\n- Warehouses (for industrial businesses)\n- Virtual office packages (for service businesses)",
+                  },
+                  {
+                    q: "Do I need to visit Ajman in person to set up my business?",
+                    a: "No, UBIXO can handle 100% of the process remotely through power of attorney. We'll courier all original documents to your location worldwide after completion.",
+                  },
+                  {
+                    q: "What ongoing compliance requirements exist for Ajman Free Zone companies?",
+                    a: "Annual obligations include:\n- License renewal (AED 7,000–12,000)\n- Office space renewal\n- Audit report submission (for some activities)\n- Visa renewals for staff",
+                  },
                 ].map((faq, index) => (
                   <details
                     key={index}
@@ -233,12 +230,11 @@ export default async function StrongPortfolioSinglePage(props) {
 
           <div style={{ padding: "50px", paddingTop: "0px" }}>
             <h2 className="h3 font-alt text-center">
-             Ready to Start Your Abu Dhabi Free Zone Company?
+            Launch Your Business in Ajman Free Zone Today
             </h2>
             <p className="text-center">
-              UBIXO ensures a seamless, cost-effective, and fully compliant Abu
-              Dhabi free zone company formation process—so you can focus on what
-              matters: growing your business.<br /> <br />
+            Partner with UBIXO for a fast, affordable, and expertly managed business setup in Ajman Free Zone. Let us handle the paperwork while you focus on growth.
+            <br /> <br />
               <Link
                 href={`/contact`}
                 className=" btn btn-mod btn-white btn-large btn-round btn-hover-anim"
@@ -254,278 +250,267 @@ export default async function StrongPortfolioSinglePage(props) {
             <div className="max-w-6xl mx-auto px-4 space-y-6">
               <div>
                 <h3 className="font-semibold text-base">
-                About Abu Dhabi Free Zone Company Formation
+                About Ajman Free Zone Business Setup
                 </h3>
                 <p>
-                  Setting up a company in an Abu Dhabi free zone is one of the
-                  most strategic and investor-friendly ways to establish your
-                  presence in the UAE. Abu Dhabi free zones offer 100% foreign
-                  ownership, tax exemptions, fast-tracked company registration,
-                  and access to global markets—all within a well-regulated and
-                  business-friendly ecosystem. With competitive setup costs, a
-                  broad Abu Dhabi free zone list, and flexible visa options, Abu
-                  Dhabi free zone company formation is ideal for startups, SMEs,
-                  and international businesses seeking long-term growth in the
-                  UAE.
+                Setting up a company in Ajman Free Zone (AFZ) is one of the most cost-effective and efficient ways to establish a business in the UAE. With 100% foreign ownership, zero taxes, and a streamlined registration process, Ajman Free Zone attracts entrepreneurs, startups, and multinational companies looking for a strategic, affordable, and business-friendly environment.
+                Whether you're in trading, services, e-commerce, or manufacturing, Ajman Free Zone offers flexible licensing options, affordable visa packages, and easy compliance, making it ideal for long-term business growth.
                </p>
               </div>
 
               <div>
                 <h4 className="font-medium">
-                Why Choose Abu Dhabi Free Zone Company Formation?
+                  Why Choose Ajman Free Zone for Company Formation?
                 </h4>
-                <p>
-                  Abu Dhabi free zones are known for their business flexibility,
-                  government support, and strong legal framework. Here’s why
-                  investors prefer company setup in Abu Dhabi free zone
-                  locations:
-                </p>
-                <ul className="list-disc list-inside space-y-1">
+                <ul className="list-disc list-inside space-y-1 mt-2">
                   <li>
                     <strong>100% Foreign Ownership</strong>
                     <br />
-                    No local sponsor or agent required—retain full control of
-                    your business.
+                    No need for a local sponsor; retain full control of your business.
                   </li>
                   <li>
-                    <strong>Competitive Abu Dhabi Free Zone License Cost</strong>
+                    <strong>Affordable License Costs</strong>
                     <br />
-                    The Abu Dhabi free zone license cost starts from
-                    approximately AED 9,000, depending on the activity and visa
-                    package.
+                    Ajman Free Zone license packages start from AED 10,500, including visa options.
                   </li>
                   <li>
-                    <strong>Access to a Wide Range of Business Activities</strong>
+                    <strong>Fast Registration (3–5 Days)</strong>
                     <br />
-                    Choose from trading, consultancy, logistics,
-                    manufacturing, and more.
+                    Minimal paperwork and quick approvals make it easy to start.
                   </li>
                   <li>
-                    <strong>Simplified Customs Procedures</strong>
-                  </li>
-                  <li>
-                    <strong>Access to International Markets</strong>
-                  </li>
-                  <li>
-                    <strong>Eligibility for Abu Dhabi Free Zone Visa</strong>
+                    <strong>Tax-Free Profits</strong>
                     <br />
-                    For investors and employees.
+                    No corporate or personal income tax, with full profit repatriation.
+                  </li>
+                  <li>
+                    <strong>Flexible Office Solutions</strong>
+                    <br />
+                    Choose from flexi-desks, private offices, or warehouses.
+                  </li>
+                  <li>
+                    <strong>Multiple Business Activities</strong>
+                    <br />
+                    Trade, services, industrial, and e-commerce licenses available.
+                  </li>
+                  <li>
+                    <strong>Easy Visa Processing</strong>
+                    <br />
+                    Investor, employee, and family visas with minimal requirements.
                   </li>
                 </ul>
               </div>
 
+
               <div>
-                <h4 className="font-medium">
-                  Step-by-Step Process for Business Setup in Abu Dhabi Free Zone
-                </h4>
-                <p>
-                  UBIXO streamlines your free zone setup with expert support at
-                  each stage:
+                <h4 className="font-medium">Step-by-Step Process for Ajman Free Zone Company Setup</h4>
+                <p className="mt-2">
+                  UBIXO ensures a smooth, fast, and hassle-free business setup in Ajman Free Zone:
                 </p>
-                <ol className="list-decimal list-inside space-y-1">
+                <ol className="list-decimal list-inside space-y-2 mt-3">
                   <li>
-                    Select a Free Zone
+                    <strong>Choose Your Business Activity</strong>
                     <br />
-                    Choose based on your business activity and specific
-                    advantages offered (e.g., KIZAD for industrial, Twofour54
-                    for media).
+                    We help you select the right trade, service, industrial, or e-commerce activity from Ajman Free Zone’s approved list.
                   </li>
                   <li>
-                    Determine Your Business Activity
+                    <strong>Reserve Your Trade Name</strong>
                     <br />
-                    Ensure your chosen activity is permitted within the selected
-                    free zone.
+                    Our team checks UAE naming rules and secures your unique business name with Ajman Free Zone Authority.
                   </li>
                   <li>
-                    Register Your Company Name
+                    <strong>Select License Type</strong>
                     <br />
-                    Submit your proposed company name for approval.
+                    Pick the best license for your needs:
+                    <ul className="list-disc list-inside ml-5 mt-1 space-y-1">
+                      <li>Commercial License (Trading, Import/Export)</li>
+                      <li>Service License (Consultancy, IT, Marketing)</li>
+                      <li>Industrial License (Manufacturing, Processing)</li>
+                      <li>E-Commerce License (Online Businesses)</li>
+                    </ul>
                   </li>
                   <li>
-                    Apply for Your License
+                    <strong>Submit Required Documents</strong>
                     <br />
-                    Select the appropriate license type (commercial, professional,
-                    industrial).
+                    We handle all paperwork, including:
+                    <ul className="list-disc list-inside ml-5 mt-1 space-y-1">
+                      <li>Passport copies of shareholders</li>
+                      <li>UAE entry stamp (if applicable)</li>
+                      <li>Business plan (for some activities)</li>
+                    </ul>
                   </li>
                   <li>
-                    Lease Office Space
+                    <strong>Get Your Ajman Free Zone License</strong>
                     <br />
-                    Choose from various options like virtual offices, shared
-                    desks, or dedicated offices.
+                    Once approved, your trade license is issued within 3–5 days, making your business operational.
                   </li>
                   <li>
-                    Submit Required Documents
+                    <strong>Apply for Visas & Establishment Card</strong>
                     <br />
-                    Provide necessary documents for registration and licensing.
+                    We process:
+                    <ul className="list-disc list-inside ml-5 mt-1 space-y-1">
+                      <li>Investor/Partner Visas</li>
+                      <li>Employee Visas (Medical, Emirates ID, Labour Card)</li>
+                      <li>Family Sponsorship</li>
+                    </ul>
                   </li>
                   <li>
-                    Obtain Your Trade License
+                    <strong>Open a UAE Bank Account</strong>
                     <br />
-                    Receive your official Abu Dhabi free zone trade license.
-                  </li>
-                  <li>
-                    Process Visas
-                    <br />
-                    Apply for investor and employee visas as needed.
-                  </li>
-                  <li>
-                    Open a Corporate Bank Account
-                    <br />
-                    Set up your business bank account in the UAE.
+                    UBIXO assists with document preparation & bank coordination for a smooth corporate account opening.
                   </li>
                 </ol>
               </div>
 
-              <div>
-                <h4 className="font-medium">
-                  Types of Free Zone Licenses in Abu Dhabi
-                </h4>
-                <p>
-                  Abu Dhabi free zones offer various licenses to suit different
-                  business needs:
-                </p>
-                <ul className="list-disc list-inside space-y-1">
-                  <li>
-                    <strong>Commercial License</strong>
-                    <br />
-                    For trading, import/export, and other commercial activities.
-                  </li>
-                  <li>
-                    <strong>Professional License</strong>
-                    <br />
-                    For service-based businesses, consultancies, and individual
-                    practitioners.
-                  </li>
-                  <li>
-                    <strong>Industrial License</strong>
-                    <br />
-                    For manufacturing, processing, and related industrial
-                    activities.
-                  </li>
-                </ul>
-                <p>
-                  UBIXO helps you identify the right license for your business
-                  model.
-                </p>
-              </div>
 
               <div>
-                <h4 className="font-medium">
-                Legal Entity Options
+                <h4 className="font-semibold text-base mb-4">
+                  Types of Ajman Free Zone Licenses
                 </h4>
-                <p>
-                You can register your business in Abu Dhabi free zones under the following structures:
-                </p>
-                <ul className="list-disc list-inside space-y-1">
-                  <li><strong>Free Zone Company (FZC)</strong> — Single or multiple shareholders</li>
-                  <li><strong>Free Zone Establishment (FZE)</strong> — Sole owner structure</li>
-                  <li><strong>Branch Office</strong> — For expanding existing businesses</li>
-                  <li><strong>Freelance Permit</strong> — For independent professionals</li>
+                <div className="overflow-x-auto">
+                  <table className="table-auto border-collapse border border-gray-300 w-full text-sm">
+                    <thead className="bg-gray-100">
+                      <tr>
+                        <th className="border border-gray-300 px-4 py-2 text-left">License Type</th>
+                        <th className="border border-gray-300 px-4 py-2 text-left">Best For</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td className="border border-gray-300 px-4 py-2 font-medium">Commercial License</td>
+                        <td className="border border-gray-300 px-4 py-2">Trading, Import/Export, Retail</td>
+                      </tr>
+                      <tr className="bg-gray-50">
+                        <td className="border border-gray-300 px-4 py-2 font-medium">Service License</td>
+                        <td className="border border-gray-300 px-4 py-2">Consultancy, IT, Marketing, Legal</td>
+                      </tr>
+                      <tr>
+                        <td className="border border-gray-300 px-4 py-2 font-medium">Industrial License</td>
+                        <td className="border border-gray-300 px-4 py-2">Manufacturing, Assembly, Processing</td>
+                      </tr>
+                      <tr className="bg-gray-50">
+                        <td className="border border-gray-300 px-4 py-2 font-medium">E-Commerce License</td>
+                        <td className="border border-gray-300 px-4 py-2">Online Stores, Digital Services</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+<br />
+
+              <div className="space-y-6">
+
+              {/* Legal Entity Options */}
+              <div>
+                <h4 className="font-medium">Legal Entity Options in Ajman Free Zone</h4>
+                <ul className="list-disc list-inside space-y-2 mt-2">
+                  <li>
+                    <strong>Free Zone Company (FZC):</strong> Ideal for businesses with two or more shareholders, offering a flexible corporate structure.
+                  </li>
+                  <li>
+                    <strong>Free Zone Establishment (FZE):</strong> Perfect for individual entrepreneurs or single shareholders seeking full ownership and control.
+                  </li>
+                  <li>
+                    <strong>Branch of Foreign Company:</strong> Allows an existing international business to expand its operations into the UAE without forming a new entity.
+                  </li>
+                  <li>
+                    <strong>Freelancer Permit:</strong> Designed for independent professionals who wish to operate legally within their specialized field.
+                  </li>
                 </ul>
-                <p>
-                  UBIXO ensures that your chosen legal structure complies with the respective free zone regulations.
-                </p>
               </div>
 
+              {/* Documents Required */}
               <div>
-                <h4 className="font-medium">
-                Required Documents for Abu Dhabi Free Zone Company Formation
-                </h4>
-                <p>
-                    Prepare the following documents:
-                </p>
-                <ul className="list-disc list-inside space-y-1">
-                <li>Passport copy of shareholders</li>
-                <li>Passport-sized photo</li>
-                <li>Entry stamp or residence visa copy</li>
-                <li>Trade name reservation</li>
-                <li>Application form</li>
-                <li>Lease agreement (if office space is selected)</li>
-                <li>Emirates ID and medical test (for visa holders)</li>
+                <h4 className="font-medium">Documents Required for Ajman Free Zone Setup</h4>
+                <ul className="list-disc list-inside mt-2 space-y-1">
+                  <li>Passport copies of shareholders</li>
+                  <li>UAE entry stamp (if residing in UAE)</li>
+                  <li>Passport-size photo (white background)</li>
+                  <li>Proof of address (home country)</li>
+                  <li>Business plan (for certain activities)</li>
                 </ul>
-                <p>
-                UBIXO takes care of documentation, attestation, and all government interactions.
+              </div>
+
+            </div>
+
+            <div>
+              <h4 className="font-semibold text-base mb-4">
+                Ajman Free Zone License Cost Breakdown
+              </h4>
+              <div className="overflow-x-auto">
+                <table className="table-auto border-collapse border border-gray-300 w-full text-sm">
+                  <thead className="bg-gray-100">
+                    <tr>
+                      <th className="border border-gray-300 px-4 py-2 text-left">Component</th>
+                      <th className="border border-gray-300 px-4 py-2 text-left">Estimated Cost (AED)</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td className="border border-gray-300 px-4 py-2 font-medium">Trade License</td>
+                      <td className="border border-gray-300 px-4 py-2">From 10,500</td>
+                    </tr>
+                    <tr className="bg-gray-50">
+                      <td className="border border-gray-300 px-4 py-2 font-medium">Visa (Investor/Employee)</td>
+                      <td className="border border-gray-300 px-4 py-2">From 3,500</td>
+                    </tr>
+                    <tr>
+                      <td className="border border-gray-300 px-4 py-2 font-medium">Office Space (Flexi-Desk)</td>
+                      <td className="border border-gray-300 px-4 py-2">From 5,000/year</td>
+                    </tr>
+                    <tr className="bg-gray-50">
+                      <td className="border border-gray-300 px-4 py-2 font-medium">Emirates ID & Medical</td>
+                      <td className="border border-gray-300 px-4 py-2">1,200 per visa</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <p className="text-xs text-gray-500 mt-2">
+                  Prices vary based on business activities and visa requirements.
                 </p>
               </div>
-              <div>
-                  <h4 className="font-medium">
-                  Abu Dhabi Free Zone License Cost
-                </h4>
-                <p>
-                Starting from <strong>AED 9,000</strong>, the total Abu Dhabi free zone business setup cost depends on your chosen license type, visa requirements, and office space selection. UBIXO offers tailored packages with complete transparency and no hidden fees.
-                </p>
-                <ul className="list-disc list-inside space-y-1">
-                <li>Business activity</li>
-                <li>Type of license (commercial, service, industrial)</li>
-                <li>Number of visas required</li>
-                <li>Office or facility selection</li>
-                </ul>
-                <p>
-                Abu Dhabi free zone visa costs typically range from AED 3,000 to AED 5,000 per visa. UBIXO provides a full-cost breakdown with no hidden fees.
-                </p>
+            </div>
+
+            <div className="space-y-6">
+
+            {/* Top Business Activities */}
+            <div>
+              <h4 className="font-medium">Top Business Activities in Ajman Free Zone</h4>
+              <ul className="list-none space-y-2 mt-2">
+                <li>General Trading (Electronics, Textiles, Food)</li>
+                <li>Consulting Services (Legal, Finance, HR)</li>
+                <li>IT & Digital Marketing</li>
+                <li>E-Commerce & Dropshipping</li>
+                <li>Healthcare & Wellness Services</li>
+                <li>Logistics & Shipping</li>
+              </ul>
+            </div>
+
+            {/* UBIXO Call-to-Action */}
+            <div>
+              <h4 className="font-medium">Start Your Business in Ajman Free Zone with UBIXO</h4>
+              <p className="mt-2">With 3,000+ successful setups, UBIXO is your trusted partner for:</p>
+              <ul className="list-none space-y-2 mt-2">
+                <li>Fast License Registration (3-5 days)</li>
+                <li>Visa & PRO Services (Investor, Employee, Family)</li>
+                <li>Bank Account Assistance (UAE Corporate Accounts)</li>
+                <li>Flexible Office Solutions (Desk/Private Office/Warehouse)</li>
+                <li>Ongoing Compliance & Renewals</li>
+              </ul>
+              <p>
+                Launch your business in Ajman Free Zone—quickly, affordably, and stress-free with UBIXO.
+              </p>
+              <p className="mb-0">
+                Call us today or{" "}
+                <a href="#contact" className="underline text-blue-600">
+                  Contact UBIXO 
+                </a>{" "}
+                to get your freezone license with confidence and clarity.
+              </p>
+
               </div>
-              <div>
-                <h4 className="font-medium">
-                Common Business Activities in Abu Dhabi Free Zones
-                </h4>
-                <p>
-                Popular sectors include:
-                </p>
-                <ul className="list-disc list-inside space-y-1">
-                <li>Consultancy and Professional Services</li>
-                <li>Trading and E-commerce</li>
-                <li>Media and Digital Marketing</li>
-                <li>Education and Training</li>
-                <li>Logistics and Warehousing</li>
-                <li>Healthcare and Wellness</li>
-                <li>Information Technology</li>
-                <li>Clean Energy and Sustainability</li>
-                </ul>
-                <p>
-                UBIXO aligns your chosen activity with the appropriate license and legal entity.
-                </p>
-              </div>
-              <div className="col-md-6">
-              <h4 className="font-medium"> Key Requirements for Setting Up a Company in Abu Dhabi Free Zone</h4>
-                <p>
-                To start your business, you must:
-                </p>
-                <ul>
-                <li>Define your business activity</li>
-                <li>Choose a legal structure</li>
-                <li>Select a trade name</li>
-                <li>Submit the required documents</li>
-                <li>Choose and secure office/facility space</li>
-                <li>Apply for your free zone license</li>
-                <li>Process visas and immigration documents</li>
-                </ul>
-                <p>
-                UBIXO handles every step to ensure a fast, compliant, and stress-free setup experience.
-                </p>
-              </div>
-              <div className="col-md-6">
-              <h4 className="font-medium">Start Your Abu Dhabi Free Zone Company with UBIXO</h4>
-                <p>
-                With over 3,000+ clients, UBIXO is your trusted partner for company setup in Abu Dhabi free zone locations. We provide:
-                </p>
-                <ul>
-                  <li>Quick and compliant company formation</li>
-                  <li>Trade name registration and license issuance</li>
-                  <li>PRO services and visa processing</li>
-                  <li>Bank account setup with major UAE banks</li>
-                  <li>Transparent pricing and end-to-end support</li>
-                </ul>
-                <p>
-                Launch your business in Abu Dhabi free zones—efficiently and confidently with UBIXO.
-                </p>
-                <p className="mb-0">
-                  Call us today or{" "}
-                  <a href="#contact" className="underline text-blue-600">
-                    Contact Us
-                  </a>{" "}
-                  to get your freezone license with confidence and clarity.
-                </p>
-              </div>
+
+            </div>
+
             </div>
           </div>
 
